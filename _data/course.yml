@@ -10,14 +10,14 @@ nav:
   - topics
   - resources
   - about
-start_date: April 1, 2019
+start_date: May 6, 2019
 days: 45
 repo:
   host: Github
-  url: https://github.com/nevanscott/uxui0419
+  url: https://github.com/nevanscott/uxui0519
 teacher:
-  name: Nevan Scott
-  url: https://nevanscott.com
+  name: Eduardo Huerta
+  url: https://www.ironhack.com/es/cursos/curso-ux-ui-design
 
 about_nav:
   -
