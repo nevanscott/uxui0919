@@ -3,8 +3,8 @@ $display:     'IBM Plex Sans Condensed', system-ui, sans-serif;
 $serif:       'Source Serif Variable', 'Source Serif Pro', Charter, Georgia, serif;
 $lh:          1.7;
 
-$brand:       hsl(327, 100%, 95%);
-$secondary:   hsl(260, 100%, 30%);
+$brand:       hsl(190, 100%, 95%);
+$secondary:   hsl(220, 100%, 30%);
 $neutral:     hsl(224, 12%, 98%);
 
 $brand-100:   change-color($brand, $lightness: 90%);
