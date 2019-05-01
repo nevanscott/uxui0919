@@ -2,6 +2,10 @@ $gap: 1rem;
 $gap: $gutter-m;
 $bp: 50em;
 
+$shadow-color: $neutral-350;
+$shadow-spread: 0.3em;
+$shadow-spread-hover: 0.5em;
+
 .schedule {
 
   nav {
@@ -106,7 +110,7 @@ $bp: 50em;
         display: contents;
       }
       .today > * {
-        background: change-color($neutral, $lightness: 8%);
+        background: change-color($neutral, $lightness: 100%-8%);
       }
     }
   }
@@ -150,7 +154,7 @@ $bp: 50em;
   .empty {
     border: solid 1px $neutral-875;
     border-radius: 3px;
-    background-color: rgba(0,0,0,0.1);
+    background-color: rgba(0,0,0,0.05);
     color: $neutral-750;
     margin: 0.5rem;
     display: flex;
@@ -173,7 +177,7 @@ $bp: 50em;
   a {
     color: inherit;
     background-color: $neutral-875;
-    box-shadow: 0 0 0.5em change-color($neutral-950, $alpha: 0.25);
+    box-shadow: 0 0 $shadow-spread change-color($shadow-color, $alpha: 0.25);
     border-radius: 3px;
     display: block;
   	font-weight: 500;
@@ -201,13 +205,13 @@ $bp: 50em;
     }
     &:hover {
       background-color: $neutral-850;
-      box-shadow: 0 0 1em change-color($neutral-950, $alpha: 0.4);
+      box-shadow: 0 0 $shadow-spread-hover change-color($shadow-color, $alpha: 0.4);
     }
   }
   .today a {
-    box-shadow: 0 0 0.5em change-color($neutral-950, $alpha: 0.5);
+    box-shadow: 0 0 $shadow-spread change-color($shadow-color, $alpha: 0.5);
     &:hover {
-      box-shadow: 0 0 1em change-color($neutral-950, $alpha: 0.6);
+      box-shadow: 0 0 $shadow-spread-hover change-color($shadow-color, $alpha: 0.6);
     }
   }
   .project-due a {

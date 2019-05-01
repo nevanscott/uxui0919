@@ -53,13 +53,13 @@ table.calendar {
     letter-spacing: 0.1em;
   }
   &:hover {
-    background-color: white;
+    background-color: $neutral-050;
     box-shadow: 0 0 1em change-color($neutral-700, $alpha: 0.25);
   }
 }
 .calendar .project-due a {
   background: $brand-500;
-  color: white;
+  color: $neutral-050;
   .label {
     color: inherit;
   }
