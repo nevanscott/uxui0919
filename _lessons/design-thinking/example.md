@@ -1,6 +1,6 @@
 ---
 title: Example Lesson
-day: 1
+day: 2
 topics:
   - topic-slugs
   - topic-slugs
