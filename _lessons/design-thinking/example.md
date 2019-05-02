@@ -1,17 +1,37 @@
 ---
-title: Design Process
+title: Example Lesson
 day: 1
 topics:
-  - design-thinking
-  - design-process
-  - double-diamond
+  - topic-slugs
+  - topic-slugs
+  - topic-slugs
 description: |
-  In this course, we'll take an iterative approach to design. No one "process" fits all projects. However,  we'll find it useful to alternate between *divergent* (exploratory) and *convergent* (decisive) thinking, and to find ways to test ideas efficiently to gain confidence in our decisions.
+  Description goes here
 objectives:
-  - outline the 5 parts of the d.school design thinking process
-  - describe the double diamond process model
-  - explain why it's important to identify problems before devising solutions
+  - objectives
+  - listed
+  - here
 ---
+
+## H2
+
+### H3
+
+#### H4
+
+This is a paragraph.
+
+- This
+- is
+- a
+- list
+
+You can add a [link](https://google.com) like that.
+
+1. Numbered
+2. steps
+3. are good for
+4. instructions
 
 
 Resources
