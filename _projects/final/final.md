@@ -70,4 +70,3 @@ Resources
 --------
 
 You can find the [final project brief](http://learn.ironhack.com/#/learning_unit/3498) on the Ironhack Platform
-
