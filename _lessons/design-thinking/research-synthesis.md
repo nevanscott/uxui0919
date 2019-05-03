@@ -28,7 +28,7 @@ Ironhack Learning Platform
 --------------------------
 - [Interpreting Data - How Might We Statements](http://learn.ironhack.com/#/learning_unit/7019)
 
--[Insights: Affinity Diagram](http://learn.ironhack.com/#/learning_unit/7016)
+- [Insights: Affinity Diagram](http://learn.ironhack.com/#/learning_unit/7016)
 
 
 Slides Desk
