@@ -1,10 +1,10 @@
 ---
 title: Quantitative methods
 Topics: 
-- Quantitive data
-- Surveys
-- Data
-- User Research
+ - Quantitive data
+ - Surveys
+ - Data
+ - User Research
 day: 1
 ----- 
 
