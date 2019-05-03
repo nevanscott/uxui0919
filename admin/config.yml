@@ -13,20 +13,55 @@ collections:
     create: true
     slug: "{{slug}}"
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Description", name: "description", widget: "markdown"}
+      - label: "Title"
+        name: "title"
+        widget: "string"
       - label: "Unit"
         name: "unit"
         widget: "relation"
         collection: "unit"
         searchFields: ["title", "description"]
         valueField: "order"
-      - {label: "Body", name: "body", widget: "markdown"}
+        displayFields: ["order", "title"]
+      - label: "Day"
+        name: "day"
+        widget: "number"
+      - label: "Topics"
+        name: "topics"
+        widget: "relation"
+        collection: "topic"
+        searchFields: ["title", "description"]
+        valueField: "slug"
+        displayFields: ["title"]
+      - label: "Description"
+        name: "description"
+        widget: "markdown"
+        hint: "A brief description of the lesson, will show up in the preview on the calendar"
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
   - name: "unit"
     label: "Unit"
     folder: "_units"
     slug: "{{slug}}"
     fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Order", name: "order", widget: "number"}
-      - {label: "Description", name: "description", widget: "markdown"}
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Order"
+        name: "order"
+        widget: "number"
+      - label: "Description"
+        name: "description"
+        widget: "markdown"
+  - name: "topic"
+    label: "Topic"
+    folder: "_topics"
+    slug: "{{slug}}"
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Description"
+        name: "description"
+        widget: "markdown"
