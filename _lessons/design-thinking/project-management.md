@@ -4,6 +4,7 @@ day: 6
 topics:
 - lean
 ---
+
 ## Learning Goals
 - Explain the difference between different Project Management Methodologies
 - Identify the benefits of Agile Methodologies
