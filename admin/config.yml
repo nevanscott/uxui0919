@@ -1,0 +1,19 @@
+backend:
+  name: git-gateway
+  branch: master
+
+publish_mode: editorial_workflow
+
+media_folder: "assets/images/uploads"
+
+collections:
+  - name: "lesson"
+    label: "Lesson"
+    folder: "_lessons"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown"}

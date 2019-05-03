@@ -26,4 +26,15 @@
     b.getAttribute("href") && b.hostname !== location.hostname && (b.target = "_blank")
   }
 
+  // Netlify Identity
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+
 </script>
