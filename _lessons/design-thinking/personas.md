@@ -4,6 +4,12 @@ topics:
 - User centered design
 - Empathy map
 - User Personas
+prep:
+ -
+   format: Reading
+   title: Five Factors for Successful Persona Projects
+   url: https://articles.uie.com/successful_persona_projects/
+   author: Jared M. Spool
 day: 3
 ---
 
