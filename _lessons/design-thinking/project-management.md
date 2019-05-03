@@ -2,7 +2,7 @@
 title: Project Management: Agile
 day: 6
 topics:
-- 
+- lean
 ---
 ## Learning Goals
 - Explain the difference between different Project Management Methodologies
