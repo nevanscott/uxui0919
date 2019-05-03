@@ -20,7 +20,7 @@ Topics covered:
 - Use optimized web patterns and Hick’s laws to plan and design websites
 
 ### Resources
-- [Human Computer Interaction](https://blog.kohactive.com/building-sitemaps/)
+- [Human Computer Interaction Brief Intro](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro)
 
 ### IronHack Student Platform
 - [Ergonomy: Human-Computer Interaction (HCI)](http://learn.ironhack.com/#/learning_unit/7041)
