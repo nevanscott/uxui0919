@@ -33,6 +33,7 @@ collections:
         searchFields: ["title", "description"]
         valueField: "slug"
         displayFields: ["title"]
+        multiple: true
       - label: "Description"
         name: "description"
         widget: "markdown"
