@@ -3,7 +3,6 @@ title: Prototyping
 day: 9
 ---
 
-# Prototyping
 ### Learning Goals
 - Understand what a prototype is and how important it is in the design process
 - Comprehend the benefits of prototyping before developing apps
