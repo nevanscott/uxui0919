@@ -13,7 +13,7 @@ topics:
 - Use cases
 - Scenarios
 
-## Sitemap
+# Sitemap
 
 ### Learning Goals
 - Explain what a sitemap is
