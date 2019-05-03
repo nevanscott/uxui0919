@@ -31,7 +31,7 @@ topics:
 ### Slides Deck
 - [Sitemap](https://docs.google.com/presentation/d/1hh1hWhIOsnQ4QGuq1Vb2zFn3fgmg2VdaDGzP4EBGnys/edit?usp=sharing)
 
-## Card sorting
+# Card sorting
 
 ### Learning Goals
 - Explain the purpose of card sorting as a user interview technique.
@@ -46,7 +46,7 @@ topics:
 ### Slides Deck
 - [Card sorting](https://docs.google.com/presentation/d/16F3IWXgzZwlBXaKMC2JQIG8Wx-3u6AnDQPGLV2PrGDc/edit?usp=sharing)
 
-## User flows
+# User flows
 
 ### Learning Goals
 - Explain what is a user flow
@@ -63,7 +63,7 @@ topics:
 ### Slides Deck
 - [User flows](https://docs.google.com/presentation/d/1YwDWge3EuLwvk461UKiOEtU5yYAjTkknZmTDLSnHQy4/edit#slide=id.g4123adfa1f_2_50)
 
-## Use cases and scenarios
+# Use cases and scenarios
 
 ### Learning Goals
 - Identify what belongs in a use case and what doesn’t
