@@ -70,8 +70,8 @@ Your presentation should answer the following questions:
 - [The Mobile Checkout Experience](https://www.nngroup.com/articles/mobile-checkout-ux/)
 
 You can download these kits for reference
-⬇️ [Wirebase kit](https://s3-eu-west-1.amazonaws.com/ih-uxui-resources/wirebase.sketch)
-⬇️ [e-Commerce UI Kit](https://s3-eu-west-1.amazonaws.com/ih-uxui-resources/fashion_e-commerce_UIKit.sketch)
+- ⬇️ [Wirebase kit](https://s3-eu-west-1.amazonaws.com/ih-uxui-resources/wirebase.sketch)
+- ⬇️ [e-Commerce UI Kit](https://s3-eu-west-1.amazonaws.com/ih-uxui-resources/fashion_e-commerce_UIKit.sketch)
 
 ### Give feedback to your peers!
 - [Presentation feedback](https://drive.google.com/drive/u/2/folders/1bHpX701sjIdgCYis4T5matW4OBYquLxY)
