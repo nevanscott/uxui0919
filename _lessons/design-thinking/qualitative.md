@@ -10,6 +10,11 @@ prep:
     title: Interviewing Humans
     url: https://alistapart.com/article/interviewing-humans/
     author: Erika Hall
+  -
+    format: Reading
+    title: Risks of Quantitative Studies
+    url: https://www.nngroup.com/articles/risks-of-quantitative-studies/
+    author: Jakob Nielsen
 day: 2
 ---
 
