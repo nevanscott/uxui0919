@@ -3,15 +3,14 @@ title: Local E-Commerce
 assigned: 5
 due: 10
 topics:
-- design-thinking
-- ia
-- navigation
-- prototyping
-- 
+  - design-thinking
+  - ia
+  - navigation
+  - prototyping
 ---
 
 ## Briefing
-Local shops often suffer a **decrease in their annual sales** due to more and more adoption in online purchases through options like Amazon or eBay. We want to help local shops **improve their online presence** to be more competitive in the market. 
+Local shops often suffer a **decrease in their annual sales** due to more and more adoption in online purchases through options like Amazon or eBay. We want to help local shops **improve their online presence** to be more competitive in the market.
 
 ## Challenge
 Over the next week, you’ll be **designing or re-designing a website for a local business**.
@@ -42,7 +41,7 @@ You’ll want to inventory and audit that content to determine:
 - Working prototype of at least one target size
 
 ### Nice to haves (extra mile)
-- Group report or Case study 
+- Group report or Case study
 - Mobile or tablet screens (responsive)
 
 ### Suggestions
