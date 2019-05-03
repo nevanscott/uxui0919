@@ -1,9 +1,9 @@
 ---
 title: Quantitative methods
+day: 1
 Topics: 
  - Quantitive data
  - Surveys
- - Data
  - User Research
 prep:
  -
@@ -11,8 +11,6 @@ prep:
    title: Risks of Quantitative Studies
    url: https://www.nngroup.com/articles/risks-of-quantitative-studies/
    author: Jakob Nielsen
-day: 1
-
 ----- 
 
 
