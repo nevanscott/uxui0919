@@ -7,13 +7,13 @@ due: 5
 ---
 
 ## Briefing
-Design has been defined as -the conception and planning of the artificial-.
+Design has been defined as **"the conception and planning of the artificial".**
 
 Different definitions of design (graphic design, architecture, product design, etc.), are variations of this broad theme, each a concrete exploration of a possible reality in our world.
 
 The problems addressed by designers seldom fall solely within the boundaries of any concrete discipline. The wicked problems approach is an alternative to linear thinking.
 
-Most of the problems addressed by designers are wicked problems:
+Most of the problems addressed by designers are **wicked problems:**
 
 “… a class of social system problems which are ill-formulated, where the information is confusing, where there are many clients and decision makers with conflicting values, and where the ramifications in the whole system are thoroughly confusing.”
 
