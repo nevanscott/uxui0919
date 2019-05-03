@@ -87,6 +87,7 @@ collections:
   - name: "topic"
     label: "Topic"
     folder: "_topics"
+    create: true
     slug: "{{slug}}"
     fields:
       - label: "Title"
@@ -98,6 +99,7 @@ collections:
   - name: "homework"
     label: "Homework"
     folder: "_homework"
+    create: true
     slug: "{{slug}}"
     fields:
       - label: "Title"
@@ -131,6 +133,7 @@ collections:
   - name: "project"
     label: "Project"
     folder: "_projects"
+    create: true
     slug: "{{slug}}"
     fields:
       - label: "Title"
