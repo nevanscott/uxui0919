@@ -7,6 +7,42 @@ publish_mode: editorial_workflow
 media_folder: "assets/images/uploads"
 
 collections:
+  - name: "homework"
+    label: "Homework"
+    folder: "_homework"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Unit"
+        name: "unit"
+        widget: "relation"
+        collection: "unit"
+        searchFields: ["title", "description"]
+        valueField: "order"
+        displayFields: ["order", "title"]
+      - label: "Format"
+        name: "format"
+        required: false
+        widget: "string"
+      - label: "Assigned"
+        name: "assigned"
+        widget: "number"
+        valueType: "int"
+        min: 1
+        max: 45
+      - label: "Due"
+        name: "due"
+        widget: "number"
+        valueType: "int"
+        min: 1
+        max: 45
+      - label: "Body"
+        name: "body"
+        required: false
+        widget: "markdown"
   - name: "lesson"
     label: "Lesson"
     folder: "_lessons"
@@ -74,79 +110,6 @@ collections:
             name: author
             widget: string
             required: false
-
-  - name: "unit"
-    label: "Unit"
-    folder: "_units"
-    slug: "{{slug}}"
-    fields:
-      - label: "Title"
-        name: "title"
-        widget: "string"
-      - label: "Order"
-        name: "order"
-        widget: "number"
-      - label: "Description"
-        name: "description"
-        widget: "markdown"
-  - name: "topic"
-    label: "Topic"
-    folder: "_topics"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - label: "Title"
-        name: "title"
-        widget: "string"
-      - label: "Description"
-        name: "description"
-        required: false
-        widget: "markdown"
-      - label: "See"
-        name: "see"
-        required: false
-        widget: "relation"
-        collection: "topic"
-        searchFields: ["title", "description"]
-        valueField: "title"
-        displayFields: ["title"]
-        multiple: false
-  - name: "homework"
-    label: "Homework"
-    folder: "_homework"
-    create: true
-    slug: "{{slug}}"
-    fields:
-      - label: "Title"
-        name: "title"
-        widget: "string"
-      - label: "Unit"
-        name: "unit"
-        widget: "relation"
-        collection: "unit"
-        searchFields: ["title", "description"]
-        valueField: "order"
-        displayFields: ["order", "title"]
-      - label: "Format"
-        name: "format"
-        required: false
-        widget: "string"
-      - label: "Assigned"
-        name: "assigned"
-        widget: "number"
-        valueType: "int"
-        min: 1
-        max: 45
-      - label: "Due"
-        name: "due"
-        widget: "number"
-        valueType: "int"
-        min: 1
-        max: 45
-      - label: "Body"
-        name: "body"
-        required: false
-        widget: "markdown"
   - name: "project"
     label: "Project"
     folder: "_projects"
@@ -187,4 +150,40 @@ collections:
       - label: "Body"
         name: "body"
         required: false
+        widget: "markdown"
+  - name: "topic"
+    label: "Topic"
+    folder: "_topics"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Description"
+        name: "description"
+        required: false
+        widget: "markdown"
+      - label: "See"
+        name: "see"
+        required: false
+        widget: "relation"
+        collection: "topic"
+        searchFields: ["title", "description"]
+        valueField: "title"
+        displayFields: ["title"]
+        multiple: false
+  - name: "unit"
+    label: "Unit"
+    folder: "_units"
+    slug: "{{slug}}"
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Order"
+        name: "order"
+        widget: "number"
+      - label: "Description"
+        name: "description"
         widget: "markdown"
