@@ -2,7 +2,7 @@
 title: UX Competencies
 format: Reading
 assigned: 1
-due: 2
+due: 25
 ---
 
 Readings
