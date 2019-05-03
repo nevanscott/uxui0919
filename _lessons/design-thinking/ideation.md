@@ -16,8 +16,6 @@ Resources
 ---------
 - [Ideation for everyday design challenges](https://www.nngroup.com/articles/ux-ideation/)
 
-- [Survey Questions 101: Do You Make any of These 7 Question Writing Mistakes?](https://www.qualtrics.com/blog/writing-survey-questions/)
-
 
 Ironhack Learning Platform
 --------------------------
