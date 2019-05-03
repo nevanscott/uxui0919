@@ -5,12 +5,6 @@ Topics:
  - Quantitive data
  - Surveys
  - User Research
-prep:
- -
-   format: Reading
-   title: Risks of Quantitative Studies
-   url: https://www.nngroup.com/articles/risks-of-quantitative-studies/
-   author: Jakob Nielsen
 ---
 
 
