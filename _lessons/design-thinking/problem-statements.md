@@ -2,7 +2,7 @@
 title: Problem and Hypothesis Statements
 topics:
 -problem statement
--Hypothesis statements
+-hypothesis statements
 day: 4
 ---
 
