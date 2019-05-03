@@ -3,7 +3,7 @@ title: About
 permalink: /about/
 ---
 
-This is the course website of the UX/UI bootcamp at Ironhack in Barcelona, May–jul 2019. **Eduardo Huertas** teaches this 9-week bootcamp at [Ironhack Barcelona](http://www.ironhack.com/en/locations/barcelona).
+This is the course website of the UX/UI bootcamp at Ironhack in Barcelona, May–jul 2019. **Eduardo Huerta** teaches this 9-week bootcamp at [Ironhack Barcelona](http://www.ironhack.com/en/locations/barcelona).
 
 
 Contributors
