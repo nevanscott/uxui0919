@@ -37,7 +37,7 @@ Topics covered:
 - [Don Norman’s Principles of Interaction Design](https://medium.com/@sachinrekhi/don-normans-principles-of-interaction-design-51025a2c0f33)
 
 ### IronHack Student Platform
-- [Intro to Interaction Design](http://learn.ironhack.com/#/learning_unit/7036)
+- [Intro to Interaction Design](http://learn.ironhack.com/#/learning_unit/7042)
 
 ### Slides Deck
 - [HCI and Interaction Design](https://docs.google.com/presentation/d/14hrf_P9Ls2IwdZnHL08XxLXCQyrpzn7CjwB96u0x0gg/edit)
