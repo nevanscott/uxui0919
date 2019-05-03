@@ -16,6 +16,7 @@ topics:
 ## Resources
 - [Complementing Your UX Skillset with Business Analysis](https://www.uxmatters.com/mt/archives/2017/07/complementing-your-ux-skillset-with-business-analysis.php)
 - [SWOT Analysis](https://www.mindtools.com/pages/article/newTMC_05.htm)
+
 ## IronHack Student Platform
 - [Business and Competitive Analysis](http://learn.ironhack.com/#/learning_unit/7032)
 
