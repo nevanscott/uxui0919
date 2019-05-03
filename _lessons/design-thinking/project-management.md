@@ -1,5 +1,5 @@
 ---
-title: Project Management: Agile
+title: "Project Management: Agile"
 day: 6
 topics:
 - lean
