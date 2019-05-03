@@ -1,9 +1,9 @@
 ---
 title: Problem and Hypothesis Statements
-topics:
--problem statement
--hypothesis statements
 day: 4
+topics:
+  - problem statement
+  - hypothesis statements
 ---
 
 Learning Goals

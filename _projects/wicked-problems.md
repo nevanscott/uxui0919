@@ -1,5 +1,6 @@
 ---
 title: Wicked Problems
+unit: 1
 assigned: 1
 topics:
  - Design Thinking
@@ -46,7 +47,7 @@ The goal is not that you present a finished and polished prototype by the end of
 ## Suggestions
 - Plan questions with your team before investigating.
 - Follow the Design thinking methodology.
-- Focus on research to gather data, and gain insights. 
+- Focus on research to gather data, and gain insights.
 - Find people nearby and ask questions.
 
 ## Considerations
@@ -69,4 +70,3 @@ Ironhack Learning Platform
 --------------------------
 
 [¿Tienen un problema serio? Primero, díganme como hacen una tostada](https://www.youtube.com/watch?v=_vS_b7cJn2A) By Tom Wujec
-
