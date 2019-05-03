@@ -3,7 +3,7 @@ title: Information Architecture
 unit: 1
 day: 7
 topics:
-  - ia
+  - Information Architecture
 ---
 
 ## Topics covered:

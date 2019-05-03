@@ -3,8 +3,8 @@ title: Business and Competitive Analysis
 unit: 1
 day: 6
 topics:
-- benchmarking
-- competitive analysis
+  - Benchmarking
+  - Competitive Analysis
 ---
 ## Learning Goals
 - Learn how to conduct a Business Analysis

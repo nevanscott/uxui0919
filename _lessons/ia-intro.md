@@ -3,7 +3,7 @@ title: Intro to Information Architecture
 unit: 1
 day: 6
 topics:
-  - ia
+  - Information Architecture
 ---
 
 ## Learning Goals

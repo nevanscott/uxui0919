@@ -2,9 +2,9 @@
 title: Intro to UX and Design Thinking
 unit: 1
 topics:
-- Design thinking
-- Design process
-- Double diamond
+  - Design thinking
+  - Design process
+  - Double diamond
 day: 1
 ---
 
