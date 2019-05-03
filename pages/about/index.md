@@ -12,6 +12,6 @@ Contributors
 - [Nevan Scott](http://nevanscott.com/)
 - [Eduardo Huerta](https://www.linkedin.com/in/eduardohuerta01/)
 - [Rapha Montenegro](https://github.com/raphamontenegro)
-- [Eli Dominguez](https://elidominguez.com)
+- [Eli Domínguez](https://elidominguez.com)
 - [Kasia Majchrowska](https://www.linkedin.com/in/kasiamajchrowska/)
 - [Alexis Zambrano](www.linkedin.com/in/alexiszambranogarcia)
