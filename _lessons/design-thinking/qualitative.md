@@ -4,6 +4,12 @@ topics:
 - qualitative methods
 - interviews
 - ux research
+prep:
+  -
+    format: Reading
+    title: Interviewing Humans
+    url: https://alistapart.com/article/interviewing-humans/
+    author: Erika Hall
 day: 2
 ---
 
