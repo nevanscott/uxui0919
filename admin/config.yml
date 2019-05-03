@@ -26,6 +26,9 @@ collections:
       - label: "Day"
         name: "day"
         widget: "number"
+        valueType: "int"
+        min: 1
+        max: 45
       - label: "Topics"
         name: "topics"
         widget: "relation"
@@ -65,4 +68,37 @@ collections:
         widget: "string"
       - label: "Description"
         name: "description"
+        widget: "markdown"
+  - name: "homework"
+    label: "Homework"
+    folder: "_homework"
+    slug: "{{slug}}"
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Unit"
+        name: "unit"
+        widget: "relation"
+        collection: "unit"
+        searchFields: ["title", "description"]
+        valueField: "order"
+        displayFields: ["order", "title"]
+      - label: "Format"
+        name: "format"
+        widget: "string"
+      - label: "Assigned"
+        name: "assigned"
+        widget: "number"
+        valueType: "int"
+        min: 1
+        max: 45
+      - label: "Due"
+        name: "due"
+        widget: "number"
+        valueType: "int"
+        min: 1
+        max: 45
+      - label: "Body"
+        name: "body"
         widget: "markdown"
