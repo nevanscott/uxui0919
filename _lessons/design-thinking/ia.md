@@ -2,7 +2,7 @@
 title: Information Architecture
 day: 7
 topics: 
-- 
+- ia
 ---
 
 ## Topics covered:
