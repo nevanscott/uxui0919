@@ -72,7 +72,7 @@ Your presentation should answer the following questions:
 
 ## Uploads
 
-* **Once your presentation is done and shiny, make sure you upload it** [**here**](https://drive.google.com/drive/u/2/folders/1bJrfEqg4NI4zIIorzvsGP4n78pamoqJZ)****
+* **Once your presentation is done and shiny, make sure you upload it** [**here**](https://drive.google.com/drive/u/2/folders/1bJrfEqg4NI4zIIorzvsGP4n78pamoqJZ)
 
 ### Resources
 
