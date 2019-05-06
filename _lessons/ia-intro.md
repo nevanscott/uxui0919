@@ -19,4 +19,4 @@ topics:
 - [Intro to Information Architecture](http://learn.ironhack.com/#/learning_unit/7033)
 
 ## Slides Deck
-- [Intro to Information Architecture](https://docs.google.com/presentation/d/14kkjM-tsGCfIzNx9zXuZQ2eWucjH75DyIUluAfd5FqE/edit#slide=id.g42bc2a18e9_2_91)
+- [Intro to Information Architecture](https://docs.google.com/presentation/d/14kkjM-tsGCfIzNx9zXuZQ2eWucjH75DyIUluAfd5FqE/view)
