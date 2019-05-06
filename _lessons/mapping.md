@@ -1,12 +1,12 @@
 ---
 title: Mapping Techniques - User Journeys and Storyboards
 unit: 1
-topics: 
-- customer journey
-- mind map
-- customer Journey
-- Sotoryboard
 day: 3
+topics:
+  - customer journey
+  - mind map
+  - customer Journey
+  - Sotoryboard
 ---
 
 Learning Goals
@@ -35,4 +35,4 @@ Ironhack Learning Platform
 
 Slides Desk
 -----------
-- [Presentation slides](https://docs.google.com/presentation/u/1/d/1w2dvgjuSOdHXJzQZOI0tAhEXmw3JbiUDyHnozTQTniI/edit?usp=sharing)
+- [Presentation slides](https://docs.google.com/presentation/u/1/d/1w2dvgjuSOdHXJzQZOI0tAhEXmw3JbiUDyHnozTQTniI/view?usp=sharing)
