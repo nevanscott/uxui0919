@@ -13,4 +13,4 @@ day: 9
 - [Wireframing](http://learn.ironhack.com/#/learning_unit/7049)
 
 ## Slides Deck
-- [Wireframing](https://docs.google.com/presentation/d/1oyadZqhlcNm1KUmTOmbFJoeX9s6A0Zvt1-wX8Ut4PyQ/edit)
+- [Wireframing](https://docs.google.com/presentation/d/1oyadZqhlcNm1KUmTOmbFJoeX9s6A0Zvt1-wX8Ut4PyQ/view)
