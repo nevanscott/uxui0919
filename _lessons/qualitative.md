@@ -1,22 +1,24 @@
 ---
 title: Qualitative Methods
 unit: 1
-topics: 
-- qualitative methods
-- interviews
-- ux research
+day: 2
+topics:
+  - qualitative methods
+  - interviews
+  - ux research
 prep:
-  -
+  - author: Erika Hall
     format: Reading
     title: Interviewing Humans
-    url: https://alistapart.com/article/interviewing-humans/
-    author: Erika Hall
-  -
+    url: 'https://alistapart.com/article/interviewing-humans/'
+  - author: Jakob Nielsen
     format: Reading
     title: Risks of Quantitative Studies
-    url: https://www.nngroup.com/articles/risks-of-quantitative-studies/
-    author: Jakob Nielsen
-day: 2
+    url: 'https://www.nngroup.com/articles/risks-of-quantitative-studies/'
+  - author: BlueDuckLabs
+    format: Video
+    title: Watch Usability Test with a Paper Prototype
+    url: 'https://www.youtube.com/watch?v=9wQkLthhHKA'
 ---
 
 Learning Goals
