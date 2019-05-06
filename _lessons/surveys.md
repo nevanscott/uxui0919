@@ -3,8 +3,8 @@ title: Designing Surveys
 unit: 1
 day: 1
 topics:
-- surveys
-- quantitative data
+  - surveys
+  - quantitative data
 ---
 
 Learning Goals
@@ -30,4 +30,4 @@ Ironhack Learning Platform
 
 Slides Desk
 -----------
-- [Presentation slides](https://docs.google.com/presentation/d/11Rx2AsB8JvICK4ep8lreV4NJX1sz8dbqzgcytneeI9Y/edit#slide=id.g4123adfa1f_2_50)
+- [Presentation slides](https://docs.google.com/presentation/d/11Rx2AsB8JvICK4ep8lreV4NJX1sz8dbqzgcytneeI9Y/view#slide=id.g4123adfa1f_2_50)
