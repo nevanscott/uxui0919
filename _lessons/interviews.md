@@ -1,9 +1,9 @@
 ---
 title: Interviews
 unit: 1
+day: 2
 topics:
   - UX Research
-day: 2
 ---
 
 Learning Goals
@@ -35,4 +35,4 @@ Ironhack Learning Platform
 
 Slides Desk
 -----------
-- [Presentation slides](https://docs.google.com/presentation/d/1ZDuiZmj4J35ObMpeNA9ldHupwrt-sqSUJxrRtRBqHBI/edit)
+- [Presentation slides](https://docs.google.com/presentation/d/1ZDuiZmj4J35ObMpeNA9ldHupwrt-sqSUJxrRtRBqHBI/view#slide=id.g4123adfa1f_2_50)
