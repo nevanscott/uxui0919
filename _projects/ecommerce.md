@@ -42,12 +42,13 @@ You’ll want to inventory and audit that content to determine:
 ## Deliverables
 
 * Presentation
-* High fidelity design or re-design of the website
+* Mid-fidelity design or re-design of the website
 * Working prototype of at least one target size
 
 ### Nice to haves (extra mile)
 
 * Group report or Case study
+* One high-fidelity screen
 * Mobile or tablet screens (responsive)
 
 ### Suggestions
