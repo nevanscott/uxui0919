@@ -16,4 +16,4 @@ day: 9
 - [User Interface Design Principles and Heuristics](http://learn.ironhack.com/#/learning_unit/7047)
 
 ## Slides Deck
-- [Design Principles and Heuristics](https://docs.google.com/presentation/u/3/d/1TxXct4o4vO80P3IuG64LfI66GTf9gYWFnH7cNArKzt4/edit?usp=sharing)
+- [Design Principles and Heuristics](https://docs.google.com/presentation/u/3/d/1TxXct4o4vO80P3IuG64LfI66GTf9gYWFnH7cNArKzt4/view)
