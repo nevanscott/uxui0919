@@ -2,10 +2,7 @@
 title: Quantitative methods
 unit: 1
 day: 1
-Topics:
- - Quantitive data
- - Surveys
- - User Research
+prep: []
 ---
 
 
