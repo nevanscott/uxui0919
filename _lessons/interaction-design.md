@@ -41,7 +41,7 @@ Topics covered:
 - [Intro to Interaction Design](http://learn.ironhack.com/#/learning_unit/7042)
 
 ### Slides Deck
-- [HCI and Interaction Design](https://docs.google.com/presentation/d/14hrf_P9Ls2IwdZnHL08XxLXCQyrpzn7CjwB96u0x0gg/edit)
+- [HCI and Interaction Design](https://docs.google.com/presentation/d/14hrf_P9Ls2IwdZnHL08XxLXCQyrpzn7CjwB96u0x0gg/view)
 
 
 # Concept sketching
@@ -57,7 +57,7 @@ Topics covered:
 - [Concept sketching for UX](http://learn.ironhack.com/#/learning_unit/7044)
 
 ### Slides Deck
-- [Concept sketching](https://docs.google.com/presentation/d/1luR-BK-5OJCL31LAAcJ5luPFb69cZKNKfQg92XAZk5c/edit#slide=id.g4123adfa1f_2_50)
+- [Concept sketching](https://docs.google.com/presentation/d/1luR-BK-5OJCL31LAAcJ5luPFb69cZKNKfQg92XAZk5c/view)
 
 # Design patterns
 
