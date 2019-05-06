@@ -30,7 +30,7 @@ topics:
 - [Sitemap](http://learn.ironhack.com/#/learning_unit/7036)
 
 ### Slides Deck
-- [Sitemap](https://docs.google.com/presentation/d/1hh1hWhIOsnQ4QGuq1Vb2zFn3fgmg2VdaDGzP4EBGnys/edit?usp=sharing)
+- [Sitemap](https://docs.google.com/presentation/d/1hh1hWhIOsnQ4QGuq1Vb2zFn3fgmg2VdaDGzP4EBGnys/view)
 
 # Card sorting
 
@@ -45,7 +45,7 @@ topics:
 - [Card sorting](http://learn.ironhack.com/#/learning_unit/7037)
 
 ### Slides Deck
-- [Card sorting](https://docs.google.com/presentation/d/16F3IWXgzZwlBXaKMC2JQIG8Wx-3u6AnDQPGLV2PrGDc/edit?usp=sharing)
+- [Card sorting](https://docs.google.com/presentation/d/16F3IWXgzZwlBXaKMC2JQIG8Wx-3u6AnDQPGLV2PrGDc/view)
 
 # User flows
 
@@ -62,7 +62,7 @@ topics:
 - [User flows](http://learn.ironhack.com/#/learning_unit/7039)
 
 ### Slides Deck
-- [User flows](https://docs.google.com/presentation/d/1YwDWge3EuLwvk461UKiOEtU5yYAjTkknZmTDLSnHQy4/edit#slide=id.g4123adfa1f_2_50)
+- [User flows](https://docs.google.com/presentation/d/1YwDWge3EuLwvk461UKiOEtU5yYAjTkknZmTDLSnHQy4/view)
 
 # Use cases and scenarios
 
@@ -80,4 +80,4 @@ topics:
 - [Use cases and scenarios](http://learn.ironhack.com/#/learning_unit/7038)
 
 ### Slides Deck
-- [Use cases and scenarios](https://docs.google.com/presentation/d/1NGcb5P4ruO8fTg0n9l_B3hH8jwDZJmr6Xz4zcj7UwsA/edit)
+- [Use cases and scenarios](https://docs.google.com/presentation/d/1NGcb5P4ruO8fTg0n9l_B3hH8jwDZJmr6Xz4zcj7UwsA/view)
