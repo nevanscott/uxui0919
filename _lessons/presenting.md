@@ -22,4 +22,4 @@ Ironhack Learning Platform
 
 Slides Desk
 -----------
-- [Presentation slides](https://docs.google.com/presentation/d/1GpGbRwD3ZfWYhVNMY6Fg8vVTRpU6QEtZp-S4r8-Qwfo/edit#slide=id.g4123adfa1f_2_50)
+- [Presentation slides](https://docs.google.com/presentation/d/1GpGbRwD3ZfWYhVNMY6Fg8vVTRpU6QEtZp-S4r8-Qwfo/view#slide=id.g4123adfa1f_2_50)
