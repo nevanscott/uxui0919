@@ -22,4 +22,4 @@ Ironhack Learning Platform
 Slides Deck
 -----------
 
-- [Quantitative Methods](https://docs.google.com/presentation/d/11Rx2AsB8JvICK4ep8lreV4NJX1sz8dbqzgcytneeI9Y/edit#slide=id.g4123adfa1f_2_50)
+- [Quantitative Methods](https://docs.google.com/presentation/d/11Rx2AsB8JvICK4ep8lreV4NJX1sz8dbqzgcytneeI9Y/view#slide=id.g4123adfa1f_2_50)
