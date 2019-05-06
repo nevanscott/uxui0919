@@ -3,9 +3,9 @@ title: Research Synthesis
 unit: 1
 day: 2
 topics:
- - data-analysis
- - hmw
- - affinity-diagramming
+  - data-analysis
+  - hmw
+  - affinity-diagramming
 ---
 
 Learning Goals
@@ -34,4 +34,4 @@ Ironhack Learning Platform
 
 Slides Desk
 -----------
-- [Presentation slides](https://docs.google.com/presentation/d/11bPuLhAj1Mnye2O-2hVBrB0ZDTcsGDxfKD_an4kdW_Y/edit?usp=sharing)
+- [Presentation slides](https://docs.google.com/presentation/d/11bPuLhAj1Mnye2O-2hVBrB0ZDTcsGDxfKD_an4kdW_Y/view?usp=sharing)
