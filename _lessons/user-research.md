@@ -1,11 +1,11 @@
 ---
 title: Intro to User Research and UCD
 unit: 1
-topics:
-- User Research
-- Interviews
-- User Centered Design
 day: 1
+topics:
+  - User Research
+  - Interviews
+  - User Centered Design
 ---
 
 Resources
@@ -25,4 +25,4 @@ Ironhack Learning Platform
 Slides Deck
 -----------
 
-- [Intro to User Reseach and UCD Slides](https://docs.google.com/presentation/d/1xH0l0eStay-Os6_RsCmufbaYmK5Vx2x2OYyyegGG0JQ/edit#slide=id.g4123adfa1f_2_50)
+- [Intro to User Reseach and UCD Slides](https://docs.google.com/presentation/d/1xH0l0eStay-Os6_RsCmufbaYmK5Vx2x2OYyyegGG0JQ/view#slide=id.g4123adfa1f_2_50)
