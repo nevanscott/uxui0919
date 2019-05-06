@@ -3,8 +3,8 @@ title: User Interface Basics
 unit: 1
 day: 9
 topics:
-- ui
-- interface
+  - ui
+  - interface
 ---
 
 ## Learning Goals
@@ -21,4 +21,4 @@ topics:
 - [Interface Design Basics](http://learn.ironhack.com/#/learning_unit/7048)
 
 ## Slides Deck
-- [Interface Design Basics](https://docs.google.com/presentation/d/1C2Jg9DHE5oXhZDaQkQXvRmWIH3XofHaCdHJNWGNWVWM/edit#slide=id.g4123adfa1f_2_50)
+- [Interface Design Basics](https://docs.google.com/presentation/d/1C2Jg9DHE5oXhZDaQkQXvRmWIH3XofHaCdHJNWGNWVWM/view)
