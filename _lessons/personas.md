@@ -1,17 +1,16 @@
 ---
 title: Personas and Empathy Mapping
 unit: 1
-topics:
-- User centered design
-- Empathy map
-- User Personas
-prep:
- -
-   format: Reading
-   title: Five Factors for Successful Persona Projects
-   url: https://articles.uie.com/successful_persona_projects/
-   author: Jared M. Spool
 day: 3
+topics:
+  - User centered design
+  - Empathy map
+  - User Personas
+prep:
+  - author: Jared M. Spool
+    format: Reading
+    title: Five Factors for Successful Persona Projects
+    url: 'https://articles.uie.com/successful_persona_projects/'
 ---
 
 Learning Goals
@@ -40,4 +39,4 @@ Ironhack Learning Platform
 
 Slides Desk
 -----------
-- [Presentation slides](https://docs.google.com/presentation/d/1GhCO1k6bzoiMVdw-sFMoMFzAAk4MvXaPQuSCmnhHIKk/edit#slide=id.g4123adfa1f_2_50)
+- [Presentation slides](https://docs.google.com/presentation/d/1GhCO1k6bzoiMVdw-sFMoMFzAAk4MvXaPQuSCmnhHIKk/view#slide=id.g4123adfa1f_2_50)
