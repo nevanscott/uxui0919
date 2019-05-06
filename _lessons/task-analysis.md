@@ -3,7 +3,7 @@ title: Task Analysis
 unit: 1
 day: 6
 topics:
-- Task analysis
+  - Task analysis
 ---
 
 ---
@@ -26,4 +26,4 @@ topics:
 - [Task Analysis](http://learn.ironhack.com/#/learning_unit/7034)
 
 ## Slides Deck
-- [Task Analysis](https://docs.google.com/presentation/d/1uE6LX9Ogqqs17lIURuS1kKP3X9FgQ0GBAESrBNCuPPI/edit#slide=id.g4123adfa1f_2_50)
+- [Task Analysis](https://docs.google.com/presentation/d/1uE6LX9Ogqqs17lIURuS1kKP3X9FgQ0GBAESrBNCuPPI/view)
