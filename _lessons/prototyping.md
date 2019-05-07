@@ -36,4 +36,4 @@ day: 9
 - [Testing Prototypes](http://learn.ironhack.com/#/learning_unit/7051)
 
 ### Slides Deck
-- [Testing Prototypes](https://docs.google.com/presentation/d/1IoLtTKXQooa3V1rUZAG06XucN3-8uSyf36zxaFQ9GPQ/view)
+- [Testing Prototypes](https://drive.google.com/open?id=1rTiSFiVvt7p2Ifl2Kfj5o8_cU3lNPaxhHzjzGniHYRc)
