@@ -2,7 +2,7 @@
 title: Sketch - Desktop Design
 unit: 3
 format: Practice
-assigned: 9
+assigned: 7
 due: 10
 ---
 
