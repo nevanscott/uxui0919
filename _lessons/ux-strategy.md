@@ -3,8 +3,8 @@ title: UX Strategy
 unit: 1
 day: 10
 topics:
-- strategy
-- lean
+  - strategy
+  - lean
 ---
 
 ## Learning Goals
@@ -23,4 +23,4 @@ topics:
 - [UX Strategy](http://learn.ironhack.com/#/learning_unit/7053)
 
 ## Slides Deck
-- [UX Strategy](https://docs.google.com/presentation/d/1GnIhOalHKwSlyXVEFYg_0zy-dXwclZ7_pp1-txQWyUs/edit#slide=id.g4123adfa1f_2_50)
+- [UX Strategy](https://drive.google.com/open?id=1H3da3uLI3nPZ7aID_VSJJjKX7ibCi5hosr0SpTupGO8)
