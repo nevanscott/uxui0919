@@ -3,7 +3,7 @@ title: Sketch - Mobile Design
 unit: 3
 format: Practice
 assigned: 6
-due: 9
+due: 7
 ---
 
 **Disclaimer: Please do this homework after completing the [Sketch Basics](https://uxui0519.netlify.com/homework/sketch-basics) homework assignment first.**
