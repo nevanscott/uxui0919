@@ -24,4 +24,4 @@ day: 11
 
 ### Slides Deck
 
-* [Lean and Features Prioritization](https://docs.google.com/presentation/d/1qOPHEnN3eK95JvP66xmCSNaaQgNq9iFgsRq2FLY_y_k/edit#slide=id.g4123adfa1f_2_50)
+* [Lean and Features Prioritization](https://docs.google.com/presentation/d/1qOPHEnN3eK95JvP66xmCSNaaQgNq9iFgsRq2FLY_y_k/edit?usp=sharing)
