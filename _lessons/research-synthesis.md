@@ -34,4 +34,5 @@ Ironhack Learning Platform
 
 Slides Desk
 -----------
-- [Presentation slides](https://docs.google.com/presentation/d/11bPuLhAj1Mnye2O-2hVBrB0ZDTcsGDxfKD_an4kdW_Y/view?usp=sharing)
+- [Interpreting Data - How Might We Statements](https://drive.google.com/open?id=1xKV0RSAwEspDvsjRyZQ21LMTnbUqzUcil_etnDtb2RU)
+- [Affinity Diagram](https://drive.google.com/open?id=1psQWaJmE7wC3Un2iLozLsE4sdv1C33uBs1UMWWZLjfI)
