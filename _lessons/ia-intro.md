@@ -17,6 +17,6 @@ topics:
 
 ## IronHack Student Platform
 - [Intro to Information Architecture](http://learn.ironhack.com/#/learning_unit/7033)
-
+- [Atomic Design - Inventories](http://learn.ironhack.com/#/learning_unit/7068)
 ## Slides Deck
 - [Intro to Information Architecture](https://drive.google.com/open?id=1ebRvMUsZ28nJTqVQpY3YR0lEci1wQP0xiCYRNbkMfcA)
