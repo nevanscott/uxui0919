@@ -2,8 +2,8 @@
 title: Get ready for Principle
 unit: 2
 format: Tutorial
-assigned: 12
-due: 13
+assigned: 28
+due: 29
 ---
 
 1. Download and install [Principle](http://principleformac.com)
