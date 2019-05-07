@@ -17,7 +17,7 @@ day: 9
 - [Prototyping](http://learn.ironhack.com/#/learning_unit/7045)
 
 ### Slides Deck
-- [Prototyping](https://docs.google.com/presentation/d/1Iui7XSx9-ujZdJynLsUNUxHqzmZCo46Djy86E1DSnJE/view)
+- [Prototyping](https://drive.google.com/open?id=1tOvqmrI9Do277Kd6O2Pz2OvuCuogtrvN7BdQWEiNbio)
 
 # Testing prototypes
 ### Learning Goals
