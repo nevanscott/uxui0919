@@ -6,6 +6,10 @@ topics:
   - User Interface
   - Color
   - Design Systems
+prep:
+  - format: Reading
+    title: Learning to see
+    url: 'https://ia.net/topics/learning-to-see'
 ---
 ## Learning Goals
 
