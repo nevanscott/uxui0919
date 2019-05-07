@@ -3,8 +3,9 @@ title: User Interface Basics
 unit: 1
 day: 9
 topics:
-  - ui
-  - interface
+  - User Interface
+  - Color
+  - Design Systems
 ---
 ## Learning Goals
 
