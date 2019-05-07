@@ -2,8 +2,8 @@
 title: Motion
 unit: 2
 format: Practice
-assigned: 14
-due: 15
+assigned: 29
+due: 30
 ---
 
 
