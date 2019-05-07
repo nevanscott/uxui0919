@@ -3,7 +3,7 @@ title: 'Project Management: Agile'
 unit: 1
 day: 6
 topics:
-  - lean
+  - Agile
 ---
 
 ## Learning Goals
@@ -21,4 +21,4 @@ topics:
 - [Project Management: Agile](http://learn.ironhack.com/#/learning_unit/7031)
 
 ## Slides Deck
-- [Project Management](https://docs.google.com/presentation/d/15V_4pCnM76JkOv1gUEEh9jfOiET5jKVYTwzB5AfuvSQ/view)
+- [Project Management](https://drive.google.com/open?id=1K2Sm-5QGE6OfJSqcizXArEqrcCzO7P3Ibf3HwshHeLs)
