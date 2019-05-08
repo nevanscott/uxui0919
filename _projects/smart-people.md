@@ -40,7 +40,7 @@ This project is about **creating an online learning platform** for 12-18 year ol
 ## Deliverables
 
 * Presentation
-* Mid-fidelity design of an ap
+* Mid-fidelity design
 * Working prototype of at least one target size
 
 ## Nice to haves (extra mile)
