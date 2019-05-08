@@ -10,4 +10,5 @@ Bring
 - 1 cardboard box
 - Magazines
 - Glue
-- Scissors 
+- Scissors
+- Markers
