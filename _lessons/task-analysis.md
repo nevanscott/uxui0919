@@ -4,6 +4,12 @@ unit: 1
 day: 6
 topics:
   - Information Architecture
+prep:
+  - author: Andreas Komninos
+    format: Reading
+    title: How to improve your UX designs with Task Analysis
+    url: >-
+      https://www.interaction-design.org/literature/article/task-analysis-a-ux-designer-s-best-friend
 ---
 
 ---
