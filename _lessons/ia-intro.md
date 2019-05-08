@@ -4,6 +4,12 @@ unit: 1
 day: 6
 topics:
   - Information Architecture
+prep:
+  - author: Dane Wesolko
+    format: Reading
+    title: Peter Morville’s User Experience Honeycomb
+    url: >-
+      https://medium.com/@danewesolko/peter-morvilles-user-experience-honeycomb-904c383b6886
 ---
 
 ## Learning Goals
