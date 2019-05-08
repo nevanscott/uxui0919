@@ -5,6 +5,12 @@ day: 4
 topics:
   - problem statement
   - hypothesis statements
+prep:
+  - author: Geunbae Lee
+    format: Reading
+    title: The ability to write and present a solid problem statement
+    url: >-
+      https://uxplanet.org/designers-indispensable-skill-the-ability-to-write-and-present-a-solid-problem-statement-56a8b4b8060
 ---
 
 Learning Goals
