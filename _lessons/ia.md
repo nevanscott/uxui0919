@@ -4,6 +4,11 @@ unit: 1
 day: 7
 topics:
   - Information Architecture
+prep:
+  - author: Usability.gov
+    format: Reading
+    title: Use Cases
+    url: 'https://www.usability.gov/how-to-and-tools/methods/use-cases.html'
 ---
 ## Topics covered:
 
