@@ -1,7 +1,7 @@
 ---
 title: 'Designing Case Studies: Showcasing A Human-Centered Design Process'
 unit: 2
-format: Reading
+format: Optional Reading
 assigned: 5
 due: 6
 ---
