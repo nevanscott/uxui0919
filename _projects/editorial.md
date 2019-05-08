@@ -17,15 +17,11 @@ The best magazines and newspapers had already launched their digital version in 
 
 With numbers increasing, publishers are prompted to **deliver quality content** along with a great digital product for readers to experience a different but still unique act of opening up a magazine and dive into it.
 
-
-
 ## Challenge
 
 Design a high-fidelity **responsive online platform for a magazine, newspaper or blog** directed to meet the needs and goals of one of the presented User Personas (check them down below). 
 
 You and your partner will have to deliver a **consistent, branded and engaging experience** and all the documentation that would allow the project to continue after your intervention as UI Designers.
-
-
 
 ## Setup
 
@@ -47,9 +43,27 @@ You and your partner will have to deliver a **consistent, branded and engaging e
 * 5 min presentation
 * Report or case study
 
+### Presentations (5 minutes)
+
+Your presentation should answer the following questions:
+
+1. What variations on your design did your group explore?
+2. How is your design meeting your persona's goals?
+3. What would you do differently next time?
+
+## Resources
+
+### Research
+
+You can find many articles on the internet about how people are consuming digital press. Make sure the stats and facts are current, as this is a market that experienced a huge change in the last couple of years. Here, one we recommend: [Print vs Digital: How We Really Consume Our Magazines – 2018 edition](http://freeportpress.com/print-vs-digital-how-we-really-consume-our-magazines/)
+
+### User personas
+
+We’ve designed three User Personas for you, based on the available information online and research insights globally. Read about them [here](http://materials.ironhack.com/s/r1fTfXkpm#user-personas), choose one and design for them.
+
 ## Uploads
 
-* **Once your presentation is done and shiny, make sure you upload it** [**here**](https://drive.google.com/drive/u/2/folders/1J970zo3JR24ajb2qOq1IM39NsCJGjRmx)****
+* **Once your presentation is done and shiny, make sure you upload it** [**here**](https://drive.google.com/drive/u/2/folders/1J970zo3JR24ajb2qOq1IM39NsCJGjRmx)\*\*\*\*
 
 ### Give feedback to your peers!
 
