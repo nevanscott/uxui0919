@@ -2,6 +2,12 @@
 title: Concept Testing
 unit: 1
 day: 4
+prep:
+  - author: Emily Bowman
+    format: Reading
+    title: The Value of Concept Testing for User Experience Design
+    url: >-
+      https://www.lireo.com/the-value-of-concept-testing-for-user-experience-design/
 ---
 
 Learning Goals
