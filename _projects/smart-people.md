@@ -3,7 +3,11 @@ title: Smart People
 unit: 1
 assigned: 10
 due: 15
-topics: []
+topics:
+  - Design Thinking
+  - Information Architecture
+  - Prioritization
+  - Prototyping
 ---
 ## Briefing
 
@@ -76,7 +80,12 @@ Your presentation should answer the following questions:
 
 ## **Resources**
 
-
+* [Further information on project briefing](http://learn.ironhack.com/#/learning_unit/7056)
+* [3 Ways to Select the Perfect Method for your Research Goal](https://uxmastery.com/3-ways-to-select-the-perfect-method-for-your-research-goal/)
+* [The Ten Principles of Inclusive Web Design](https://principles.design/examples/the-ten-principles-of-inclusive-design)
+* [Design Patterns For Complex Apps and Workflows](https://www.nngroup.com/videos/complex-apps-workflows/?utm_source=Alertbox&utm_campaign=d06b4b598b-Intelligent_Assistants_UX_Workshop_2018_07_23&utm_medium=email&utm_term=0_7f29a2b335-d06b4b598b-40353313)
+* [Content Modelling](https://alistapart.com/article/content-modelling-a-master-skill/)
+* [Build It With The User in Mind: How to Design User Flow](https://conversionxl.com/blog/how-to-design-user-flow/)
 
 ## Give feedback to your peers!
 
