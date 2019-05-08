@@ -5,7 +5,7 @@ day: 7
 topics:
   - Information Architecture
 prep:
-  - author: ''
+  - author: Usability.gov
     format: Reading
     title: Use Cases
     url: 'https://www.usability.gov/how-to-and-tools/methods/use-cases.html'
