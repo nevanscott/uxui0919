@@ -2,6 +2,14 @@
 title: Lean and Feature Prioritization
 unit: 1
 day: 11
+prep:
+  - format: Reading
+    title: 'Agile Vs. Lean: Yeah Yeah, What’s the Difference?'
+    url: 'https://hackerchick.com/agile-vs-lean-yeah-yeah-whats-the-difference/'
+  - format: Reading
+    title: Lean UX – Getting Out Of The Deliverables Business
+    url: >-
+      https://www.smashingmagazine.com/2011/03/lean-ux-getting-out-of-the-deliverables-business/
 ---
 # Lean
 
