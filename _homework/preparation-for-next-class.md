@@ -7,8 +7,8 @@ due: 4
 Bring
 -----
 
-- 1 cardboard box
-- Magazines
-- Glue
-- Scissors
-- Markers
+- 1 Cardboard box per group.
+- Magazines.
+- Glue.
+- Scissors.
+- Markers.
