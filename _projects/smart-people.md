@@ -40,7 +40,7 @@ This project is about **creating an online learning platform** for 12-18 year ol
 ## Deliverables
 
 * Presentation
-* Mid-fidelity design of an ap
+* Mid-fidelity design
 * Working prototype of at least one target size
 
 ## Nice to haves (extra mile)
@@ -72,7 +72,7 @@ Your presentation should answer the following questions:
 1. What was the process behind your design and how did it evolve?
 2. How does your research insights translate into a solution you propose?
 3. How does your design provide equivalent experience to the in-person one during summer camps?
-4. What were your key learnings and what would be the next steps?
+4. What were your key learnings and what are the next steps?
 
 ## Uploads
 
