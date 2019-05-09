@@ -12,4 +12,4 @@ After this lesson you will be able to:
 * Create Layer Styles
 * Create Text Styles
 * Create a Symbol
-* Export and share your designs
+* Export your designs
