@@ -15,7 +15,7 @@ Local shops often suffer a **decrease in their annual sales** due to more and mo
 
 ## Challenge
 
-Over the next week, you’ll be **designing or re-designing a website for a local business**.
+Over the next week, you’ll be **re-designing a website for a local business**.
 
 In this project, we’re focusing our efforts on delivering great shopping experiences for the end users. Because e-commerce is well-studied in the industry, we will devote the most of the research time for **benchmarking and market research** as well as developing a sense of professional best practices and rules of thumb you can always rely on. We encourage you to **visit the shop in advance to do some guerrilla research** and conduct research on client and users: observation and contextual inquiry would be the most useful methods to use in this case.
 
@@ -42,14 +42,13 @@ You’ll want to inventory and audit that content to determine:
 ## Deliverables
 
 * Presentation
-* Mid-fidelity design or re-design of the website
-* Working prototype of at least one target size
+* Mid-fidelity re-design of the website
+* Working prototype 
 
 ### Nice to haves (extra mile)
 
 * Group report or Case study
 * One high-fidelity screen
-* Mobile or tablet screens (responsive)
 
 ### Suggestions
 
