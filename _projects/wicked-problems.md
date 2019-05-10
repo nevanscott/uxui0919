@@ -2,9 +2,9 @@
 title: Wicked Problems
 unit: 1
 assigned: 1
-topics:
- - Design Thinking
 due: 5
+topics:
+  - Design Thinking
 ---
 
 ## Briefing
@@ -59,6 +59,12 @@ The goal is not that you present a finished and polished prototype by the end of
 - How does your design solution address the problem?
 - What would you do differently next time?
 
+## Uploads
+- Once your presentation is nice and shiny, make sure you upload it [here](https://drive.google.com/drive/u/1/folders/1-bBC_RDSzG1gmMCzPB2WpUSmuLgUI6Qw)
+
+## Give feedback to your peers!
+- [Presentation Feedback](https://drive.google.com/drive/u/1/folders/1uMGSY2HzeaubZZg9By5QDg-fFHDYhOW_)
+- [Group Retrospectives](https://drive.google.com/drive/u/1/folders/1zt7u5MYLNAqXHDQ8yPnrd5jlx-YvLRLX)
 
 Resources
 ---------
