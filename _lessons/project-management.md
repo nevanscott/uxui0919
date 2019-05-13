@@ -1,7 +1,7 @@
 ---
 title: 'Project Management: Agile'
 unit: 1
-day: 6
+day: 11
 topics:
   - Agile
 ---
