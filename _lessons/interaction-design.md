@@ -63,3 +63,6 @@ Topics covered:
 
 ### IronHack Student Platform
 - [Design patterns](http://learn.ironhack.com/#/learning_unit/7043)
+
+### Slides Deck
+- [UI patterns](https://drive.google.com/open?id=1l0ADnZg4AkS13AquQYcFmQCqvbmjaJgqRhWAJVmGLOY)
