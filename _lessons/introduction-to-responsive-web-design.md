@@ -15,6 +15,7 @@ prep:
 ## Resources
 - [Consistency in the Omnichannel Experience](https://www.nngroup.com/articles/omnichannel-consistency/)
 - [Font-Size recommendation](https://www.smashingmagazine.com/2011/10/16-pixels-body-copy-anything-less-costly-mistake/) by Smashing Magazine
+- [Using baseline grids in web & UI design](https://www.youtube.com/watch?v=-Kp66bBZoy8) (video)
 
 ## IronHack Student Platform
 - [Introduction to Responsive Web Design](http://learn.ironhack.com/#/learning_unit/7087)
