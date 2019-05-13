@@ -1,6 +1,6 @@
 ---
 title: Design Principles and Usability Heuristics
-unit: 1
+unit: 2
 day: 9
 ---
 
@@ -17,3 +17,4 @@ day: 9
 
 ## Slides Deck
 - [Design Principles and Heuristics](https://drive.google.com/open?id=1HBF9L_Td48mtrgWaaB_YWd4APsOjX4R-Ff7FSUViwIU)
+- [Usability as a design framework](https://drive.google.com/open?id=1JhtOMfWNGsdDC_fjI8RGNWrCAxPWgX0df5TCHpdvOaQ)
