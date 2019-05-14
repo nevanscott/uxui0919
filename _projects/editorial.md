@@ -2,7 +2,7 @@
 title: Editorial
 unit: 2
 assigned: 20
-due: 42
+due: 25
 topics:
   - Responsive
   - Style Tile
