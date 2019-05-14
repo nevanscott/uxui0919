@@ -15,6 +15,8 @@ topics:
 - [Hack Design: Using Icons in Interfaces](https://hackdesign.org/lessons/24)
 - [Why icons are important](https://medium.com/@Claromentis/why-icons-are-important-29dd86ac45d0)
 - [9 Guidelines for Clear and Intuitive Icons](http://uxmovement.com/buttons/9-guidelines-for-clear-and-intuitive-icons/)
+
+### Additional Resources
 - [The IconFont plugin for Sketch](https://github.com/keremciu/sketch-iconfont) – which we installed during the Prework
 - [Entypo](http://www.entypo.com/) by Daniel Bruce
 - [IKONS](http://ikons.piotrkwiatkowski.co.uk/) by Piotr Adam Kwiatkowski
