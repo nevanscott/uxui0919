@@ -6,12 +6,7 @@ topics:
   - Testing
   - Composition
   - Color
-objectives:
-  - f
-prep:
-  - format: fff
-    title: fff
-    url: fff
+
 ---
 ## Learning Goals
 - Explain what Desirability Testing is
