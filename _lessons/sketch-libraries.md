@@ -2,6 +2,7 @@
 title: Sketch Libraries
 unit: 3
 day: 21
+format: Workshop
 topics: []
 ---
 
