@@ -1,5 +1,5 @@
 ---
-title: Accessibility & designing multistate screen
+title: Accessibility & Designing Multistate Screens
 unit: 3
 day: 18
 objectives: []
