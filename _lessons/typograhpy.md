@@ -16,7 +16,7 @@ topics:
 - Style text and create visual hierarchy
 
 ## Resources
-- [Typography in UI Design and How to Choose the Proper Font](https://www.webdesignerdepot.com/2013/03/serif-vs-sans-the-final-battle/)
+- [Typography in UI Design and How to Choose the Proper Font](https://line25.com/articles/a-showcase-of-beautiful-typography-in-web-design)
 - [Serif Vs. Sans: The Final Battle](https://www.webdesignerdepot.com/2013/03/serif-vs-sans-the-final-battle/)
 - [Methods of overlaying text on images](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96)
 
