@@ -5,8 +5,6 @@ day: 22
 topics:
   - Color
   - Style Tile
-objectives: []
-prep: []
 ---
 ## Learning Goals
 - Differentiate between RGB, HEX, and HSB
@@ -21,8 +19,8 @@ prep: []
 
 ## IronHack Student Platform
 - [Color](http://learn.ironhack.com/#/learning_unit/7091)
+- [Analyzing Aesthetics](http://learn.ironhack.com/#/learning_unit/7069)
+- [Moodboards](http://learn.ironhack.com/#/learning_unit/7086)
 
 ## Slides Deck
 - [Color](https://drive.google.com/open?id=1LW_dGsuH7gB1cZI2piFv92CypyeCYpCGT60hrOxZ74Q)
-- [Analyzing Aesthetics](http://learn.ironhack.com/#/learning_unit/7069)
-- [Moodboards](http://learn.ironhack.com/#/learning_unit/7086)
