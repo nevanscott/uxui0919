@@ -1,7 +1,7 @@
 ---
 title: Group crits 
 format: Group crits
-day: 
+day: 44
 ---
 
 Each stand-up group will meet with the teacher and TA's for a group crit session that will last around 45 minutes. The objective of this session is to open ourselves to feedback from another point of view and to practice our own skills giving feedback.
