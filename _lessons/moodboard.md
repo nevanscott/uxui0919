@@ -19,4 +19,3 @@ topics:
 
 ## Slides Deck
 - [Moodboard](https://drive.google.com/open?id=11OSrNyI8I9CrVljCusaYHCa9-Ove2HVW8I15mk44Zyg)
-
