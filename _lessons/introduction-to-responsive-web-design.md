@@ -4,8 +4,6 @@ unit: 3
 day: 21
 topics:
   - Responsive
-description: ''
-objectives: []
 prep:
   - format: Reading
     title: Using Sketch For Responsive Web Design (A Case Study)
