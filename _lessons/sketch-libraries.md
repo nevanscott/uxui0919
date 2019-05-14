@@ -3,14 +3,8 @@ title: Sketch Libraries
 unit: 3
 day: 21
 topics: []
-objectives:
-  - d
-prep:
-  - author: d
-    format: d
-    title: d
-    url: d
 ---
+
 ## Learning Goals
 - Prepare a design System to build your first Library in Sketch App
 - Use Sketch to sync your library to the cloud
