@@ -2,12 +2,7 @@
 title: Design Systems
 unit: 3
 day: 23
-objectives:
-  - fxtj
-prep:
-  - format: h
-    title: dh
-    url: hd
+
 ---
 ## Learning Goals
 - Learn what a Design System is
@@ -25,4 +20,4 @@ prep:
 - [User interface fundamentals](http://learn.ironhack.com/#/learning_unit/7048)
 
 ## Slides Deck
-- [Business and Competitive Analysis](https://drive.google.com/open?id=1web6-8-R44JjFVrm9vzFFy56LcE7TxBJe8hmEGZbsZM)
+- [Design Systems & Design Ops](https://drive.google.com/open?id=1jwYk-JdMyz_UIDWXf9d5WVqZVMqQGVEPTh0X7vZwXAg)
