@@ -21,7 +21,7 @@ topics: []
 * [Animation](http://learn.ironhack.com/#/learning_unit/7099)
 * [Intro to microinteractions](http://learn.ironhack.com/#/learning_unit/7100)
 * [Advanced Interaction Design - Microinteractions](http://learn.ironhack.com/#/learning_unit/7100)
-* [Intro to Flinto](http://learn.ironhack.com/#/learning_unit/7101)
+* [Intro to Principle](http://learn.ironhack.com/#/learning_unit/7542)
 * [Flinto Advanced Kata](http://learn.ironhack.com/#/learning_unit/7106)
 
 ## Slides Deck
