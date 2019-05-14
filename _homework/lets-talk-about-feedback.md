@@ -2,8 +2,8 @@
 title: Let's talk about feedback
 unit: 1
 format: Reading
-assigned: 7
-due: 8
+assigned: 40
+due: 41
 ---
 ## Readings
 
