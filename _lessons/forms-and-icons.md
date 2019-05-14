@@ -4,8 +4,6 @@ unit: 3
 day: 22
 topics:
   - Forms
-objectives: []
-prep: []
 ---
 ## Learning Goals
 - Be able to explain the style difference between iOS and Material Design.
