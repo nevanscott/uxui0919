@@ -7,8 +7,6 @@ topics:
   - Style Tile
   - UI State
   - Composition
-objectives: []
-prep: []
 ---
 ## Learning Goals
 - Understand what a style tile is
