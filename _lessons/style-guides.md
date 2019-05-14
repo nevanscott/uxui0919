@@ -3,12 +3,7 @@ title: Style Guides
 unit: 3
 day: 23
 topics: []
-objectives:
-  - drgh
-prep:
-  - format: sdfg
-    title: g
-    url: g
+
 ---
 ## Learning Goals
 - Explain what a Style Guide is
