@@ -72,6 +72,7 @@ prep:
 
 * [UX Glossary: Task Flows, User Flows, Flowcharts and some new-ish stuff](https://uxplanet.org/ux-glossary-task-flows-user-flows-flowcharts-and-some-new-ish-stuff-2321044d837d)
 * [How to Design User Flow](https://conversionxl.com/blog/how-to-design-user-flow/)
+* [10 Ways Site Flows & User Flows Are Both Different and Similar](https://slickplan.com/blog/site-flow-and-user-flow-differences-and-similarities)
 
 ### IronHack Student Platform
 
