@@ -21,5 +21,9 @@ prep:
 - [Sketch Libraries: How they work, and the crazy stuff you can do with them](https://medium.com/ux-power-tools/sketch-libraries-how-they-work-and-the-crazy-stuff-you-can-do-with-them-fc10f142ac80)
 - [Using Sketch Libraries to build a better UI design system](https://medium.com/sketch-app-sources/using-sketch-libraries-to-build-a-better-ui-design-system-part-2-8de6cef5adc5)
 
+### Additional Resources
+- [Sketch Libraries to try](https://www.sketch.com/libraries/)
+- [Sketch App Sources](https://www.sketchappsources.com/sketch-libraries.html)
+
 ## IronHack Student Platform
 - [Sketch Libraries](http://learn.ironhack.com/#/learning_unit/7095)
