@@ -4,12 +4,7 @@ unit: 3
 day: 24
 topics:
   - Motion
-objectives:
-  - sefg
-prep:
-  - format: gd
-    title: dsg
-    url: gs
+
 ---
 ## Learning Goals
 
