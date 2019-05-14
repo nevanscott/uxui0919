@@ -3,12 +3,6 @@ title: Microinteractions
 unit: 3
 day: 24
 topics: []
-objectives:
-  - dsf
-prep:
-  - format: dsf
-    title: sdf
-    url: sf
 ---
 ## Learning Goals
 
