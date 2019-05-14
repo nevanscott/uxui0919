@@ -1,6 +1,7 @@
 ---
 title: Sketch Libraries
 unit: 3
+format: Workshop
 day: 21
 objectives:
   - d
