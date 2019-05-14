@@ -6,8 +6,6 @@ topics:
   - Moodboard
   - Competitive Analysis
   - Style Tile
-objectives: []
-prep: []
 ---
 ## Learning Goals
 - Learn what mood boards are and how to make them.
