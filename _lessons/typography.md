@@ -1,9 +1,10 @@
 ---
-title: Typograhpy
+title: Typography
 unit: 3
 day: 22
 topics:
   - Typography
+  - Composition
 ---
 ## Learning Goals
 - Explain what typography is
