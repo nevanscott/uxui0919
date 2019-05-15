@@ -5,6 +5,10 @@ day: 10
 topics:
   - strategy
   - lean
+prep:
+  - format: Reading
+    title: User research for decision making
+    url: 'https://uxdesign.cc/research-for-decision-making-d370e1afa245'
 ---
 
 ## Learning Goals
