@@ -5,11 +5,7 @@ day: 24
 topics:
   - Motion
 objectives: []
-prep:
-  - author: zf
-    format: saf
-    title: zf
-    url: zfs
+prep: []
 ---
 ## Learning Goals
 
