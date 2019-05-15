@@ -7,8 +7,8 @@ topics:
   - lean
 prep:
   - format: Reading
-    title: User research for decision making
-    url: 'https://uxdesign.cc/research-for-decision-making-d370e1afa245'
+    title: A CRAP way to improve usability
+    url: 'https://www.userfocus.co.uk/articles/A_CRAP_way_to_improve_usability.html'
 ---
 
 ## Learning Goals
