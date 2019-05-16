@@ -41,6 +41,7 @@ topics:
 
 * [Understanding Fidelity](https://cantina.co/understanding-design-fidelity-for-creating-a-great-product-experience/)
 * [Wireframes – Should They Really Be Tested? And If So, How?](https://www.softwaretestinghelp.com/wireframes-prototype-testing/)
+* [Task analysis - template en español](http://minalab.insitum.net/wp-content/uploads/2010/07/Task-Analysis-Formato.pdf)
 
 ### IronHack Student Platform
 
