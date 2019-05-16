@@ -13,14 +13,14 @@ topics:
 
 Fun People Inc. is an educational company born in 2014. They currently offer **in-person courses for adults of: languages, music, yoga, cooking and first-aid**. Their main attraction are workshop camps. Dozens of people **join every month the workshops in different locations**, as the school has a very special recipe: they integrate classes, outdoor activities, technology, humour, games, and other cool stuff to their mission of teaching people additional skills.
 
-However, many people **are unable to attend** the summer camp due to cost and time reasons, but still want to take part in a course. Fun People Inc. **needs a way to provide an engaging online experience** for people who cannot attend the workshop camp.
+However, many people **are unable to attend** the workshop camp due to time and cost reasons, but still want to take part in a course. Fun People Inc. **needs a way to provide an engaging online experience** for people who cannot attend the workshop camp.
 
-## The Summer Camp
+## The Workshop Camp
 
 * Each workshop camp lasts two weeks
 * A course has around 10 activities and 10 lessons
 * Out of these activities and lessons, students get to decide which 5 they want to take
-* If they are willing to join more sessions, they can either be put in the waiting list
+* If they are willing to join more sessions, they can be put in the waiting list
 * All attendees receive feedback from other students and their coaches
 * Coaches follow student progress, in order to effectively asses them and be able to co-create the most adequate learning path together
 * Fun People Inc. has a lot of material in the various formats already developed after years of running the workshops and school
