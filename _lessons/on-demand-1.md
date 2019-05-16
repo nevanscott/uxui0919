@@ -2,6 +2,9 @@
 title: 'On-demand: Problem Statement & HMW'
 unit: 1
 day: 12
+topics:
+  - Design Process
+  - Design Thinking
 description: '##'
 ---
 ## Learning Goals
