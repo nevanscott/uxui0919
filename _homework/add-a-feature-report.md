@@ -4,9 +4,7 @@ unit: 3
 assigned: 19
 due: 21
 ---
-
-
-Write a report about your [Fun People](https://uxui0519.netlify.com/projects/smart-people/) Project. This may be similar to a written version of your presentation, but you’ll have the opportunity to go into more detail.
+Write a report about your [Add a Feature](https://uxui0519.netlify.com/projects/add-a-feature/) Project. This may be similar to a written version of your presentation, but you’ll have the opportunity to go into more detail.
 
 Next week, bring this with you to your 1-on-1 with one of the TAs, to review the project with them.
 
