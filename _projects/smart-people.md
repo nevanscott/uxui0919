@@ -59,7 +59,7 @@ This project is about **creating an online learning platform that will transform
 
 ## Nice to haves (extra mile)
 
-* Complete and annotated “wireflow” (include gestures and transitions)
+* Complete an annotated “wireflow” (include gestures and transitions)
 * Secondary screens for another viewport (desktop/tablet/mobile)
 
 ## Suggestions
