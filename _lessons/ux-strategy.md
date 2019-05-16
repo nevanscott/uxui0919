@@ -1,7 +1,7 @@
 ---
 title: UX Strategy
 unit: 1
-day: 10
+day: 11
 topics:
   - strategy
   - lean
