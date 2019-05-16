@@ -1,9 +1,7 @@
 ---
 title: Presentation and Public Speaking
 unit: 1
-day: 
-- 5
-- 14
+day: 5
 ---
 
 Learning Goals
