@@ -16,6 +16,10 @@ description: '##'
 
 ## Resources
 
-[How to write a problem statement](https://medium.com/leading-service-design/how-to-write-a-problem-statement-50e2c87810fe)
+* [How to write a problem statement](https://medium.com/leading-service-design/how-to-write-a-problem-statement-50e2c87810fe)
+* [How might we by Design Kit](http://www.designkit.org/methods/3)
 
-[How might we by Design Kit](http://www.designkit.org/methods/3)
+## Problem statement & HMW Workshop
+
+* [Slides Deck](https://docs.google.com/presentation/d/1FegcPs9JX3ijNhelimsLhXbsXV3uVa4noyWemBXqAhw/)
+* [Designer’s indispensable skill: the ability to write and present a solid problem statement](https://uxplanet.org/designers-indispensable-skill-the-ability-to-write-and-present-a-solid-problem-statement-56a8b4b8060)
