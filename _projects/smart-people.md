@@ -89,6 +89,14 @@ Your presentation should answer the following questions:
 
 **Once your presentation is done and shiny, make sure you upload it** [**here**](https://drive.google.com/drive/u/2/folders/1GAuXd0EeILC4DQ7QSeoV_7QTc4CWoVWJ)**.**
 
+## Suggested Roadmap
+
+- **Monday:** Research
+- **Tuesday:** Design question, Content Map, Proposal.
+- **Wednesday:** User Flow, use cases, low fidelity wireframes
+- **Thursday:** Testing (a lot), move to mid fidelity wireframes, test again.
+- **Friday:** High fidelity screen, make presentation, practice presentation. 
+
 ## **Resources**
 
 * [Miro App](https://miro.com/)
