@@ -18,8 +18,8 @@ You will be developing a new feature for an existing app based on an area of fun
 Setup
 -----
 
-- Group Project
-- 3 class days (plus the weekend!)
+- Individual Project
+- 4 class days (plus weekend)
 
 
 Materials
@@ -28,7 +28,6 @@ Materials
 - Sketch
 - Invision
 - Google Slides
-- Principle
 
 
 Background
@@ -45,6 +44,7 @@ Aspects to Consider
 - You must be able to defend your design decisions based on research and testing.
 - The company already has an established aesthetic and defined look and feel. How will you maintain this in your hi-fidelity prototype?
 
+
 Target Device
 -------------
 
@@ -54,11 +54,10 @@ Target Device
 Requirements
 ------------
 
-- User flows for the key new tasks the user needs complete
+- User flows for the key new tasks the user needs to complete
 - Show how the feature fits into the app navigation
 - Evaluate your design against heuristics and CRAP principles
 - Digitized screens at high fidelity
-- Create at least one key animation on Principle (you're very welcome to do more!)
 - Provide evidence for key decisions through research and testing
 
 
@@ -72,46 +71,43 @@ Timeline
 End-of-Project Presentation <small>(6 minutes)</small>
 ---------------------------
 
-Your will have 6 minutes to summarize your work. We should get a strong sense of:
+Your will have **6 minutes** to summarize your work. We should get a strong sense of:
 
 - The problem and the user(s)
 - Findings from research and how these informed your design
 - Your design, including a prototype
-- At least one key animation on Principle
 - Next steps
 
 
 Suggested Roadmap
 ----------------
 
-### Day 1
+### Weekend
 
 - Heuristics & CRAP
 - Define user methods (surveys, interviews...) and execute
 
-### Day 2
+### Day 1
 - Define problem and user
 - Define new user flow with added feature
+
+### Day 2
 - Paper prototype
+- Test & iterate
+- Sketch mid-fi
 - Test & iterate
 
 ### Day 3
-- Sketch mid-fi
-- Test & iterate
-- Sketch high-fi
-
-### Weekend
 
 - Test & iterate
 - Principle animations
 - InVision
-- Rehearse presentation
 
 ### Day 4
 
-- Presentation in the morning
-
-
+- Sketch high-fi
+- Rehearse presentation
+- Presentations start at 16:00.
 
 
 Design Thinking
@@ -136,5 +132,5 @@ Tips
 Give feedback to your peers!
 ---------------------------
 
-- [Presentation feedback](https://drive.google.com/drive/folders/1n_uXdKU06FjF-UBM1FEJvzy703JcT0ku)
-- [Group retrospective](https://drive.google.com/drive/folders/1eiRycXa8aemdAaO5EdoB3dAtm2Ty3auF)
+- [Presentation feedback](https://drive.google.com/drive/u/1/folders/1-VocR5qTmu64DhWr44D5__B-vNOnC7UP)
+- [Group retrospective](https://drive.google.com/drive/u/1/folders/1zt7u5MYLNAqXHDQ8yPnrd5jlx-YvLRLX)
