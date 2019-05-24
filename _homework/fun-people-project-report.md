@@ -17,3 +17,10 @@ Next week, bring this with you to your 1-on-1 with one of the TAs, to review the
 
 * [Designing Case Studies: Showcasing A Human-Centered Design Process](https://www.smashingmagazine.com/2015/02/designing-case-studies-human-centered-design-process/) by Senongo Akpem
 * [Questions I ask when reviewing a design](https://signalvnoise.com/posts/3024-questions-i-ask-when-reviewing-a-design) by Jason Fried
+
+## Inspiration
+
+Be careful, not every example is perfect. Take what you like and improve it ;)
+
+* [Gateway: The Onboarding Experience, Reimagined — Case Study](https://medium.com/nyc-design/gateway-the-onboarding-experience-reimagined-case-study-50945b41b4a)
+* [Example of prototype with someone guiding with audio](https://uxdesign.cc/ux-design-report-prototyping-a-shared-search-for-idealista-5730ed806a82) (don't be mean)
