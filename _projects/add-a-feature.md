@@ -100,12 +100,12 @@ Suggested Roadmap
 ### Day 3
 
 - Test & iterate
-- Principle animations
 - InVision
+- Sketch high-fi
 
 ### Day 4
 
-- Sketch high-fi
+- Prepare Presentation
 - Rehearse presentation
 - Presentations start at 16:00.
 
