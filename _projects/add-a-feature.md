@@ -107,7 +107,7 @@ Suggested Roadmap
 
 - Prepare Presentation
 - Rehearse presentation
-- Presentations start at 16:00.
+- Presentations start at 15:00.
 
 
 Design Thinking
