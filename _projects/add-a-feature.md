@@ -133,4 +133,3 @@ Give feedback to your peers!
 ---------------------------
 
 - [Presentation feedback](https://drive.google.com/drive/u/1/folders/1-VocR5qTmu64DhWr44D5__B-vNOnC7UP)
-- [Group retrospective](https://drive.google.com/drive/u/1/folders/1zt7u5MYLNAqXHDQ8yPnrd5jlx-YvLRLX)
