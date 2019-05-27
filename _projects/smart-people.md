@@ -91,11 +91,11 @@ Your presentation should answer the following questions:
 
 ## Suggested Roadmap
 
-- **Monday:** Research
-- **Tuesday:** Design question, Content Map, Proposal.
-- **Wednesday:** User Flow, use cases, low fidelity wireframes
-- **Thursday:** Testing (a lot), move to mid fidelity wireframes, test again.
-- **Friday:** High fidelity screen, make presentation, practice presentation. 
+* **Monday:** Research
+* **Tuesday:** Design question, Content Map, Proposal.
+* **Wednesday:** User Flow, use cases, low fidelity wireframes
+* **Thursday:** Testing (a lot), move to mid fidelity wireframes, test again.
+* **Friday:** High fidelity screen, make presentation, practice presentation. 
 
 ## **Resources**
 
@@ -108,6 +108,4 @@ Your presentation should answer the following questions:
 
 ## Give feedback to your peers!
 
-[Presentation feedback](https://drive.google.com/drive/u/2/folders/1Gp5bTv3CVJc_ZdQo-cCIUKT1lrO4pZe4)
-
-[Group retrospective](https://drive.google.com/drive/u/2/folders/1zt7u5MYLNAqXHDQ8yPnrd5jlx-YvLRLX)
+* [Presentation feedback](https://drive.google.com/drive/u/2/folders/1Gp5bTv3CVJc_ZdQo-cCIUKT1lrO4pZe4)
