@@ -28,20 +28,22 @@ You and your partner will have to deliver a **consistent, branded and engaging e
 * Work in pairs
 * 6 days
 * 5 min presentation on Friday
-* A report or case study
 
 ## Materials
+* Sketch
+* Principle
 
 ## Deliverables
 
-* Animated hi-fi interactive prototype
+* Animated hi-fi interactive prototype (this means animating microinteractions)
 * Style Guide
 * Brand positioning
 * Benchmark analysis
 * Process logbook (explain how you organized yourselves to make it happen)
-* Zeplin link
 * 5 min presentation
-* Report or case study
+
+### Nice to have
+* A report or case study
 
 ### Presentations (5 minutes)
 
