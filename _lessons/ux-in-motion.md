@@ -1,7 +1,7 @@
 ---
 title: UX in Motion
 unit: 3
-day: 24
+day: 23
 topics:
   - Motion
 
