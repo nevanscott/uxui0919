@@ -1,7 +1,7 @@
 ---
 title: Design Basics
 unit: 3
-day: 17
+day: 16
 topics:
   - Composition
 description: ''
