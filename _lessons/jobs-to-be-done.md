@@ -17,6 +17,7 @@ prep: []
 * [5 Mistakes to Avoid When First Learning Jobs to be Done](https://jtbd.info/5-mistakes-to-avoid-when-first-learning-jobs-to-be-done-80594015f643) by Alan Klement
 * [5 Tips For Writing A Job Story](https://jtbd.info/5-tips-for-writing-a-job-story-7c9092911fc9) by Alan Klement
 * [When Coffee and Kale Compete](http://www.whencoffeeandkalecompete.com/)
+* [Know Your Customers’ “Jobs to Be Done”](https://hbr.org/2016/09/know-your-customers-jobs-to-be-done)
 
 ## Ironhack Learning Platform
 
