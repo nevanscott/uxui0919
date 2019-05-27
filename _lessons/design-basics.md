@@ -1,12 +1,11 @@
 ---
-title: Grids & Spacing
+title: Design Basics
 unit: 3
 day: 17
 topics:
   - Composition
 description: ''
 objectives: []
-prep: []
 ---
 Learning Goals
 --------------
