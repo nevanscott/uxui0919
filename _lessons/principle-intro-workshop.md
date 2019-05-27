@@ -1,7 +1,7 @@
 ---
 title: Principle Intro Workshop
 unit: 2
-day: 24
+day: 23
 topics:
   - Motion
 objectives: []
