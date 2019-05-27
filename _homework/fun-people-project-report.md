@@ -23,4 +23,3 @@ Next week, bring this with you to your 1-on-1 with one of the TAs, to review the
 Be careful, not every example is perfect. Take what you like and improve it ;)
 
 * [Gateway: The Onboarding Experience, Reimagined — Case Study](https://medium.com/nyc-design/gateway-the-onboarding-experience-reimagined-case-study-50945b41b4a)
-* [Example of prototype with someone guiding with audio](https://uxdesign.cc/ux-design-report-prototyping-a-shared-search-for-idealista-5730ed806a82) (don't be mean)
