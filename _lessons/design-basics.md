@@ -2,8 +2,6 @@
 title: Design Basics
 unit: 2
 day: 16
-objectives: []
-prep: []
 ---
 ## Resources
 
