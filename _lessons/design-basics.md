@@ -1,34 +1,17 @@
 ---
 title: Design Basics
-unit: 3
+unit: 2
 day: 16
-topics:
-  - Composition
-description: ''
 objectives: []
+prep: []
 ---
-Learning Goals
---------------
+## Resources
 
-- Learn how to avoid Pixel-Pushing in UI
-- Learn how to make design decisions
-- Learn alignment rules
-- Understand how to align elements in your designs
-- Understand grids and how to use them
+* [Diccionario UX](https://www.saraclip.com/diccionario-ux/)
+* [Rueda cromática de Adobe](https://color.adobe.com/es/create)
+* [7 normas para crear interfaces de usuario espléndidas](https://medium.com/espanol/7-normas-para-crear-interfaces-de-usuario-esplendidas-parte-2-619fbe104b25)
+* [11 Things every designer Needs To Know About Mobile App Interaction](https://medium.muz.li/11-things-every-designer-needs-to-know-about-mobile-app-interaction-a22c635527b3)
 
-Resources
----------
+## Slides Deck
 
-- [Using baseline grids for a polished design](https://www.youtube.com/watch?v=-Kp66bBZoy8)
-- [Designing grids](https://zellwk.com/blog/designing-grids/) by Alan Klement
-- [White space in UI design](https://uxplanet.org/white-space-in-ui-design-8647d4f685a7)
-
-Ironhack Learning Platform
---------------------------
-
-- [Grids](http://learn.ironhack.com/#/learning_unit/7071)
-
-Slides Desk
------------
-
-- [Presentation slides](https://docs.google.com/presentation/d/1R0SZ1oXW52d3i-lB06sknNngkhZBpITLm5xyum_uAos/edit#slide=id.g4123adfa1f_2_50)
+* [Diseño Básico](https://drive.google.com/open?id=1V0HjOtQHwpKlnGlSkxKQxcR7lB8E235fPZ9Lj5CLHks)
