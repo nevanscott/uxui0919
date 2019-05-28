@@ -23,6 +23,13 @@ Resources
 - [Google Design](https://design.google/)
 - [Android TV](https://designguidelines.withgoogle.com/android-tv/android-tv/introduction.html)
 
+Additional  Resources from class
+-------------------------
+- [Color Palette Generator Tool](https://material.io/tools/color/#!/?view.left=0&view.right=0&primary.color=4CAF50&secondary.color=26A69A)
+- [Font Scales](//material.io/design/typography/the-type-system.html#type-scale)
+- [Uxpin Material UI Kit](https://www.uxpin.com/material-design-ui-kit)
+- [SketchApp Sources Material Ui Kit Direct Download](https://www.sketchappsources.com/resource/download-874.html)
+
 Ironhack Learning Platform
 --------------------------
 
