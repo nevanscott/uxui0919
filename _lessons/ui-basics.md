@@ -23,6 +23,15 @@ prep:
 * [What and Why User Interface Design](https://www.usability.gov/what-and-why/user-interface-design.html)
 * [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/)
 
+## Additional resources from class
+* [Behance](https://www.behance.net/)
+* [Visual Journal](https://visualjournal.it/)
+* [Land Book](https://land-book.com/)
+* [Dribbble](https://dribbble.com/)
+* [Material Color System](https://material.io/design/color/the-color-system.html#color-theme-creation)
+* [7 Practical tips for cheating at design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+* [UI Design Do’s and Don’ts](https://developer.apple.com/design/tips/)
+
 ## IronHack Student Platform
 
 * [Interface Design Basics](http://learn.ironhack.com/#/learning_unit/7048)
