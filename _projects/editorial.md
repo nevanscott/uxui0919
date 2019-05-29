@@ -27,25 +27,31 @@ You and your partner will have to deliver a **consistent, branded and engaging e
 
 * Work in pairs
 * 6 days
-* 5 min presentation on Friday
+* 6 min presentation on Friday
 
 ## Materials
+
 * Sketch
+* Invision
 * Principle
+* Google Slides
 
 ## Deliverables
 
-* Animated hi-fi interactive prototype (this means animating microinteractions)
+* Hi-fi interactive prototype of the website
+* Animation of at least one specific screen using Principle
+  _(suggestion: animate an error screen, waiting screen... think about designing for multistate screens and choose one of them if you have it)_
 * Style Guide
 * Brand positioning
 * Benchmark analysis
 * Process logbook (explain how you organized yourselves to make it happen)
-* 5 min presentation
+* 6 min presentation
 
-### Nice to have
+### Nice to have
+
 * A report or case study
 
-### Presentations (5 minutes)
+### Presentations (6 minutes)
 
 Your presentation should answer the following questions:
 
