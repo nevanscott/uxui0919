@@ -18,6 +18,7 @@ prep: []
 * [Why empty states deserve more design time](https://www.invisionapp.com/inside-design/why-empty-states-deserve-more-design-time/)
 * [Designing for accessibility is not that hard](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94)
 * [Ejemplos de pantallas con estados vacíos](https://emptystat.es/tagged/mobile)
+* [Accessibility by Interaction Design Foundation](https://www.interaction-design.org/literature/topics/accessibility)
 
 ## Ironhack Learning Platform
 
