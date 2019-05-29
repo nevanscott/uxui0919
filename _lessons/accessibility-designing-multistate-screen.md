@@ -16,6 +16,7 @@ prep: []
 * [Exploring Loading Screens in Mobile App Design](https://1stwebdesigner.com/loading-screens-mobile-app-design/)
 * [Designing the Overlooked Empty States](https://www.uxpin.com/studio/blog/ux-best-practices-designing-the-overlooked-empty-states/)
 * [Why empty states deserve more design time](https://www.invisionapp.com/inside-design/why-empty-states-deserve-more-design-time/)
+* [Designing for accessibility is not that hard](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94)
 * [Ejemplos de pantallas con estados vacíos](https://emptystat.es/tagged/mobile)
 
 ## Ironhack Learning Platform
