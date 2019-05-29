@@ -16,14 +16,14 @@ prep: []
 * [Exploring Loading Screens in Mobile App Design](https://1stwebdesigner.com/loading-screens-mobile-app-design/)
 * [Designing the Overlooked Empty States](https://www.uxpin.com/studio/blog/ux-best-practices-designing-the-overlooked-empty-states/)
 * [Why empty states deserve more design time](https://www.invisionapp.com/inside-design/why-empty-states-deserve-more-design-time/)
-* [World Information Architecture Day: talks about Accessibility](https://www.worldiaday.org/talks?f%5B0%5D=location%3A20&f%5B1%5D=year_theme%3A548)
+* [World Information Architecture Day: talks about Accessibility and Diversity](https://www.worldiaday.org/talks?f%5B0%5D=location%3A20&f%5B1%5D=year_theme%3A548)
 
 ### Shown at class
 
 * [Designing for accessibility is not that hard](https://uxdesign.cc/designing-for-accessibility-is-not-that-hard-c04cc4779d94)
 * [Ejemplos de pantallas con estados vacíos](https://emptystat.es/tagged/mobile)
 * [Accessibility by Interaction Design Foundation](https://www.interaction-design.org/literature/topics/accessibility)
-* 
+* [Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG21/) 
 
 ## Ironhack Learning Platform
 
