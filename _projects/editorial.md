@@ -39,8 +39,8 @@ You and your partner will have to deliver a **consistent, branded and engaging e
 ## Deliverables
 
 * Hi-fi interactive prototype of the website
-* Animation of at least one specific screen using Principle
-  _(suggestion: animate an error screen, waiting screen... think about designing for multistate screens and choose one of them if you have it)_
+* At least one animation using Principle
+  _(suggestion: animate an error screen, waiting screen... think about designing for multistate screens and choose one of them if you have it. You could either choose to animate microtransitions inside a screen, animate a transition between screens or both)_
 * Style Guide
 * Brand positioning
 * Benchmark analysis
