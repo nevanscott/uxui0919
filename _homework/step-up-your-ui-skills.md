@@ -1,8 +1,8 @@
 ---
 title: Step up your UI skills!
 unit: 3
-assigned: 20
-due: 21
+assigned: 24
+due: 26
 ---
 ## Learning Goals
 
