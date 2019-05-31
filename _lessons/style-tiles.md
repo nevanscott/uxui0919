@@ -1,7 +1,7 @@
 ---
 title: Style Tiles
 unit: 3
-day: 22
+day: 21
 topics:
   - Color
   - Style Tile
