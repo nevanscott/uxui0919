@@ -1,11 +1,10 @@
 ---
 title: 'Refining your UI: Lightning, shadows and consistency'
 unit: 3
-day: 19
+day: 22
 topics:
   - Composition
-objectives: []
-prep: []
+
 ---
 Learning Goals
 --------------
