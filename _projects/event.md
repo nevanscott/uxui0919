@@ -172,7 +172,7 @@ You will be working as a one-person studio and covering a series of roles to mak
 
 ## Uploads
 
-Once your presentation is done and shiny, make sure you upload it here\*\*\*\*
+**Once your presentation is done and shiny, make sure you upload it here.**
 
 ## Give feedback to your peers!
 
