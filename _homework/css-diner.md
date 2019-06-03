@@ -1,8 +1,8 @@
 ---
 title: CSS Diner
 unit: 4
-assigned: 25
-due: 26
+assigned: 30
+due: 31
 ---
 
 CSS Diner is a very easy and useful game to learn how to use selectors in CSS.
