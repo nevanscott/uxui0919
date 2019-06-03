@@ -21,3 +21,4 @@ prep:
 
 ## Slides Deck
 - [Introduction to Responsive Web Design](https://drive.google.com/open?id=15oWRA1tw8S1BnwR80n1_UHXVvHjy3__ZQY3yz3e5hHo)
+- [Sketch file: Responsive Boxes](https://drive.google.com/drive/u/1/folders/1SVCzLTi5r9GVtpwN8xqliYly4SRoekXy)
