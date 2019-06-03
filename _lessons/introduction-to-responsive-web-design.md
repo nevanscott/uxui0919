@@ -15,6 +15,9 @@ prep:
 - [Font-Size recommendation](https://www.smashingmagazine.com/2011/10/16-pixels-body-copy-anything-less-costly-mistake/) by Smashing Magazine
 - [Using baseline grids in web & UI design](https://www.youtube.com/watch?v=-Kp66bBZoy8) (video)
 
+## Additional resources from class
+- [Responsive Design in Sketch](https://www.sitepoint.com/responsive-design-in-sketch-its-finally-here/)
+
 ## IronHack Student Platform
 - [Introduction to Responsive Web Design](http://learn.ironhack.com/#/learning_unit/7087)
 - [Grids](http://learn.ironhack.com/#/learning_unit/7071)
