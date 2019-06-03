@@ -140,8 +140,6 @@ You will be working as a one-person studio and covering a series of roles to mak
 
 [European Audiences: 2020 and beyond](http://ec.europa.eu/assets/eac/culture/library/reports/conference-audience_en.pdf)
 
-
-
 ## Examples
 
 **Music Festivals**
@@ -172,10 +170,8 @@ You will be working as a one-person studio and covering a series of roles to mak
 
 ## Uploads
 
-**Once your presentation is done and shiny, make sure you upload it here.**
+**Once your presentation is done and shiny, make sure you upload it** [**here**](https://drive.google.com/drive/u/2/folders/13Fvy1epltFViKbB21jOY9dWgVBjdSXOW)**.**
 
 ## Give feedback to your peers!
 
-Presentation feedback
-
-Group retrospective
+[Presentation feedback](https://drive.google.com/drive/u/2/folders/1NZU6hpLNC9urB1AR1Qg4uCl6wQWgxsgL)
