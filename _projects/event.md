@@ -30,8 +30,8 @@ You will be working as a one-person studio and covering a series of roles to mak
 * The marketing team has **defined three stages of use**: 1) Pre-event, 2) During the event, 3) Post-event
 * The website **should include all the information for this edition and links for the community**. 
 * **Ticket sale is a plus** — if not possible within the scope, you can integrate a third-party service.
-* The client wants to **see your work in a meeting on Friday** and all the C-Suite is invited to attend. The same day they have organised a meeting with the Dev Team to revise the documentation you’ve prepared. You need to have every asset ready by the Friday meeting, as the front-end developer needs to start on Monday. You’ll have the weekend to apply changes.
-* While preparing your design hand-off (Zeplin document), remember to **follow naming conventions agreed with the team and prepare a style guid**e to document everything clearly. This is key to the product’s maintenance.
+* The client wants to **see your work in a meeting on Friday** and all the C-Suite is invited to attend. The same day they have organised a meeting with the Dev Team to revise the documentation you’ve prepared. You need to have **every asset ready by the Friday meeting**, as the front-end developer needs to start on Monday. You’ll have the weekend to apply changes.
+* While preparing your design hand-off (Zeplin document), remember to **follow naming conventions agreed with the team and prepare a style guide** to document everything clearly. This is key to the product’s maintenance.
 
 ## Roadmap
 
@@ -93,7 +93,7 @@ You will be working as a one-person studio and covering a series of roles to mak
 ## Deliverables
 
 * Hi-fi interactive prototype of a responsive website
-* Life cycle (states of design)
+* Multistate screens
 * Marketing presentation (Style Guide, brand positioning, benchmark analysis)
 * Documentation for dev hand-off (Zeplin)
 * 6 min presentation
