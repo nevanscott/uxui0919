@@ -32,4 +32,4 @@ topics:
 - [Typography](http://learn.ironhack.com/#/learning_unit/7090)
 
 ## Slides Deck
-- [Shapes and Icons](https://drive.google.com/open?id=1jNik_Q6wpm59_x5Iph_STRdDEZ_piEsyPR6Q8spbH7I)
+- [Typography](https://drive.google.com/open?id=1jNik_Q6wpm59_x5Iph_STRdDEZ_piEsyPR6Q8spbH7I)
