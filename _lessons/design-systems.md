@@ -14,6 +14,9 @@ day: 21
 * [More Meaningful Typography](https://alistapart.com/article/more-meaningful-typography)
 * [Style Guide Best Practices](http://bradfrost.com/blog/post/style-guide-best-practices-at-beyond-tellerrand/?ref=mybridge.co)
 * [Atomic Desing System](http://atomizedesign.com/)
+* [Design Systems Gallery](https://designsystemsrepo.com/design-systems/)
+* [Inside Design Blog (Invision)](https://www.invisionapp.com/inside-design)
+* [Airbnb Design Blog](https://airbnb.design/)
 
 ## IronHack Student Platform
 
