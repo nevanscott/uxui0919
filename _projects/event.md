@@ -92,7 +92,8 @@ You will be working as a one-person studio and covering a series of roles to mak
 
 ## Deliverables
 
-* Hi-fi interactive prototype of a responsive website
+* Hi-fi interactive prototype 
+* Minimum 2 screens responsive 
 * Multistate screens
 * Marketing presentation (Style Guide, brand positioning, benchmark analysis)
 * Documentation for dev hand-off (Zeplin)
