@@ -21,7 +21,7 @@ topics:
 * [The power of animations in UX design](https://medium.com/@Sheby/the-power-of-animations-in-ux-design-ac6fec53d253)
 * [How to use Disney’s Principles of Animation to improve UX](https://www.tandemseven.com/experience-design/how-to-use-disneys-principles-of-animation-to-improve-ux/)
 
-Seen in class
+**Seen in class**
 
 * [The 12 principles of animation as illustrated through Disney and Disney Pixar Films](https://ohmy.disney.com/movies/2016/07/20/twelve-principles-animation-disney/)
 * [The ultimate guide to proper use of animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
