@@ -2,9 +2,7 @@
 title: Reports Review
 format: One-on-One
 days:
-  - 21
-  - 22
-  - 23
+  - 25
 ---
 
 To Prepare:
