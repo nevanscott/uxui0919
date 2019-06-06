@@ -5,12 +5,7 @@ day: 34
 topics:
   - CSS Grid
   - CSS
-objectives:
-  - d
-prep:
-  - format: d
-    title: d
-    url: d
+
 ---
 ## Learning Goals
 
