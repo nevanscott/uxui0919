@@ -6,12 +6,7 @@ topics:
   - HTML
   - CSS
   - Flexbox
-objectives:
-  - gh
-prep:
-  - format: g
-    title: g
-    url: g
+
 ---
 ## Learning Goals
 
