@@ -1,0 +1,21 @@
+---
+title: Intro to HTML
+unit: 4
+day: 31
+---
+## Learning Goals
+* Understand what a Markup Language is
+* Know the anatomy of HTML elements (opening, closing tag, self cosing tag, content, attributes, empty elements)
+* Have a high-level understanding of HTML
+* Understand the structure of an HTML document
+* Be able to create basic HTML documents using:
+* head, body, h1-h6, p, img, lists, links, em, strong
+* Learn the importance of semantic HTML elements
+* Open HTML documents in the browser and inspect the content
+
+## Ironhack Platform
+* [Intro to HTML](http://learn.ironhack.com/#/learning_unit/7121)
+
+## Slides Deck
+
+* [Intro to HTML](https://docs.google.com/presentation/d/1WuqZmDTIQOGfDkPxjNArUtrrxOFywjAlNfOZa3Vlxkg/edit#slide=id.g4123adfa1f_2_50)
