@@ -15,7 +15,7 @@ topics:
 
 ## IronHack Student Platform
 
-* [Flexbox | The basics](http://learn.ironhack.com/#/learning_unit/7135)
+* [Flexbox: the basics](http://learn.ironhack.com/#/learning_unit/7135)
 
 ## Exercises
 
