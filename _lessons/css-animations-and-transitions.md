@@ -4,12 +4,7 @@ unit: 4
 day: 34
 topics:
   - CSS
-objectives:
-  - d
-prep:
-  - format: d
-    title: d
-    url: d
+
 ---
 ## Learning Goals
 
