@@ -6,7 +6,6 @@ topics:
   - HTML
   - CSS
   - Flexbox
-
 ---
 ## Learning Goals
 
@@ -24,3 +23,4 @@ topics:
 ## Resources
 
 * [Flexbox: a complete guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Cheatsheet](http://learn.ironhack.com/#/learning_unit/7138)
