@@ -5,12 +5,7 @@ day: 34
 topics:
   - HTML
   - Responsive
-objectives:
-  - f
-prep:
-  - format: f
-    title: f
-    url: f
+
 ---
 ## Learning Goals
 
@@ -29,4 +24,4 @@ prep:
 * [Mobile First Design: Why it’s Great and why it Sucks](https://mayvendev.com/blog/mobilefirst)
 * [Google: Aspectos básicos del diseño web adaptable](https://developers.google.com/web/fundamentals/design-and-ux/responsive/)
 * [Mobile First](https://zurb.com/word/mobile-first)
-* [MDN: using media queries](<Using media queries>)
+* [MDN: using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
