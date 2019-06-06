@@ -25,6 +25,9 @@ topics:
 
 * [The 12 principles of animation as illustrated through Disney and Disney Pixar Films](https://ohmy.disney.com/movies/2016/07/20/twelve-principles-animation-disney/)
 * [The ultimate guide to proper use of animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9)
+* [Los 12 principios de ux motion](https://www.layerlemonade.com/motion-design/os-12-principios-do-ux-no-motion-ctrlaltn)
+* [Animation](https://www.awwwards.com/awwwards/collections/animation/)
+* [Microinteractions - why, when and how to use them to boost the ux](https://uxdesign.cc/micro-interactions-why-when-and-how-to-use-them-to-boost-the-ux-17094b3baaa0)
 
 ## IronHack Student Platform
 
