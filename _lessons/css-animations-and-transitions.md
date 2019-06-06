@@ -1,5 +1,5 @@
 ---
-title: CSS Animations and Transitions
+title: CSS - Animations and Transitions
 unit: 4
 day: 34
 topics:
