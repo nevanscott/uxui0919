@@ -22,6 +22,10 @@ prep:
 
 * [Flexbox | The basics](http://learn.ironhack.com/#/learning_unit/7135)
 
-## Resources
+## Exercises
 
 * [Flexbox Froggy](https://flexboxfroggy.com/#es)
+
+## Resources
+
+* [Flexbox: a complete guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
