@@ -2,12 +2,6 @@
 title: Git/GitHub
 unit: 4
 day: 34
-objectives:
-  - d
-prep:
-  - format: d
-    title: d
-    url: d
 ---
 ## Learning Goals
 
