@@ -8,11 +8,6 @@ description: |-
   * UX in motion
   * Micro-interactions
   * Principle
-objectives:
-  - d
-prep:
-  - format: d
-    title: d
-    url: d
+
 ---
 
