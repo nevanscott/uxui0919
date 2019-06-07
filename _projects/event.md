@@ -45,7 +45,7 @@ You will be working as a one-person studio and covering a series of roles to mak
 **Monday**
 
 * Market and user insights
-* Trend forecast and mood board
+* Concept definition and moodboard
 * Content curation and tone setting
 
 **Tuesday**
@@ -57,7 +57,6 @@ You will be working as a one-person studio and covering a series of roles to mak
 
 **Wednesday**
 
-* Desirability Testing
 * Selection and iteration based on feedback
 * Design System and Sketch library (symbols)
 * Production
