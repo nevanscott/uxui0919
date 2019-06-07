@@ -3,12 +3,6 @@ title: Design handoff - Zeplin
 unit: 4
 day: 27
 topics: []
-objectives:
-  - g
-prep:
-  - format: g
-    title: g
-    url: g
 ---
 ## Learning Goals
 
