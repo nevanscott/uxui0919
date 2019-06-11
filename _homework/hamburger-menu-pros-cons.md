@@ -2,7 +2,7 @@
 title: 'Hamburger menu: pros & cons'
 unit: 2
 format: Reading
-assigned: 26
+assigned: 27
 due: 28
 ---
 📚 [10 pros and cons of the hamburger menu (with examples)](https://www.invisionapp.com/inside-design/pros-and-cons-of-hamburger-menus/)
