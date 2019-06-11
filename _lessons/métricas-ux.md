@@ -2,12 +2,7 @@
 title: Métricas UX
 unit: 3
 day: 27
-objectives:
-  - d
-prep:
-  - format: d
-    title: d
-    url: d
+
 ---
 ## Resources
 
