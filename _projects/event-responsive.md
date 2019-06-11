@@ -21,7 +21,7 @@ due: 34
 * CSS
 * Presentation
 
-### Presentations
+### Presentations
 * 3 minutes
 * Show your coded version of the website
 * Tell us what was the most difficult part of coding for this project
