@@ -1,5 +1,5 @@
 ---
-title: HTML layout
+title: HTML Layout of your event micro-site
 unit: 4
 assigned: 31
 due: 32
