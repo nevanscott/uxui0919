@@ -17,6 +17,7 @@ day: 35
 ## Ironhack Learning Platform
 
 * [UX for acquisition, conversion, and retention of the user](http://learn.ironhack.com/#/learning_unit/7145)
+* [Landing pages](http://learn.ironhack.com/#/learning_unit/7146) 
 
 ## Slides Deck
 
