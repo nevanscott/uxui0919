@@ -1,7 +1,7 @@
 ---
 title: Group crits 
 format: Group crits
-day: 
+days: 
 - 40
 - 43
 - 44
