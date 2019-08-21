@@ -1,6 +1,6 @@
 title: User Experience and User Interface Design
 abbreviation: UX/UI
-iteration: 05/19
+iteration: 09/19
 city: Barcelona
 school:
   name: Ironhack
@@ -10,11 +10,11 @@ nav:
   - topics
   - resources
   - about
-start_date: May 6, 2019
+start_date: September 23, 2019
 days: 45
 repo:
   host: Github
-  url: https://github.com/nevanscott/uxui0519
+  url: https://github.com/nevanscott/uxui0919
 teacher:
   name: Eduardo Huerta
   url: https://www.ironhack.com/es/cursos/curso-ux-ui-design
