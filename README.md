@@ -1,7 +1,7 @@
 UX/UI Bootcamp
 ==============
 
-This is the source code for https://uxui0519.netlify.com, the course website of the UX/UI bootcamp at Ironhack in Barcelona, May–July 2019. [Eduardo Huerta](https://www.ironhack.com/es/cursos/curso-ux-ui-design) teaches this 9-week bootcamp at [Ironhack Barcelona](https://www.ironhack.com/es/campus/barcelona).
+This is the source code for https://uxui0919.netlify.com, the course website of the UX/UI bootcamp at Ironhack in Barcelona, September–November 2019. [Eduardo Huerta](https://www.ironhack.com/es/cursos/curso-ux-ui-design) teaches this 9-week bootcamp at [Ironhack Barcelona](https://www.ironhack.com/es/campus/barcelona).
 
 
 License
@@ -54,4 +54,4 @@ Starting a new class
 Quick Start
 -----------
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/nevanscott/uxui0519)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/nevanscott/uxui0919)
