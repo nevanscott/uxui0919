@@ -1,7 +1,7 @@
 UX/UI Bootcamp
 ==============
 
-This is the source code for https://uxui0519.nevan.org, the course website of the UX/UI bootcamp at Ironhack in Barcelona, May–July 2019. [Eduardo Huerta](https://www.ironhack.com/es/cursos/curso-ux-ui-design) teaches this 9-week bootcamp at [Ironhack Barcelona](https://www.ironhack.com/es/campus/barcelona).
+This is the source code for https://uxui0519.netlify.com, the course website of the UX/UI bootcamp at Ironhack in Barcelona, May–July 2019. [Eduardo Huerta](https://www.ironhack.com/es/cursos/curso-ux-ui-design) teaches this 9-week bootcamp at [Ironhack Barcelona](https://www.ironhack.com/es/campus/barcelona).
 
 
 License
